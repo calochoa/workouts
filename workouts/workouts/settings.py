@@ -28,11 +28,11 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'unsafe-default-for-local-dev')
 DEBUG = os.environ.get('DJANGO_DEBUG', '') == 'True'
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '127.0.0.1',
-    'calochoa-workouts.herokuapp.com/'
-    'calochoa-workouts-d1bab16ead6f.herokuapp.com/',
+    'calochoa-workouts-d1bab16ead6f.herokuapp.com', 
+    'localhost', 
+    '127.0.0.1'
 ]
+
 
 # Application definition
 
