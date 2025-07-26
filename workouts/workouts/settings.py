@@ -25,8 +25,11 @@ SECRET_KEY = 'django-insecure-hd(d-q!v6ay)anfep6&x+vh^4y*g+b1%76ci=x+)9yo6@z#^eg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'calochoa-workouts.herokuapp.com',  # replace with your actual Heroku app domain
+]
 
 # Application definition
 
