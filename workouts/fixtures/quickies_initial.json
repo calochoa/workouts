@@ -1,1 +1,5041 @@
-[{"model": "admin.logentry", "pk": 1, "fields": {"action_time": "2025-07-25T05:37:08.229Z", "user": 1, "content_type": 11, "object_id": "71", "object_repr": "ID: 71, Name: NOT Easy, Type: Ultimate, Level: Master, Body Split: Total Body, YouTube ID: XLAZx3PZZi0, Date Created: 2019-08-13", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\"]}}]"}}, {"model": "admin.logentry", "pk": 2, "fields": {"action_time": "2025-07-25T20:59:57.363Z", "user": 1, "content_type": 11, "object_id": "30", "object_repr": "ID: 30, Name: Hip-Hop U Dont Stop, Type: Cardio, Level: Intermediate, Body Split: Lower Body, YouTube ID: Djm-gEMWcnQ, Date Created: 2011-10-02", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 3, "fields": {"action_time": "2025-07-25T23:28:33.818Z", "user": 1, "content_type": 11, "object_id": "1", "object_repr": "ID: 1, Name: Quick Core, Type: Junior, Level: Beginner, Body Split: Core, YouTube ID: S5X8Tt8IYRQ, Date Created: 2011-10-16", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 4, "fields": {"action_time": "2025-07-25T23:34:54.881Z", "user": 1, "content_type": 11, "object_id": "3", "object_repr": "ID: 3, Name: Quick Easy, Type: Junior, Level: Beginner, Body Split: Total Body, YouTube ID: iS2Qt_JCdrc&t, Date Created: 2011-10-16", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 5, "fields": {"action_time": "2025-07-26T00:38:19.668Z", "user": 1, "content_type": 11, "object_id": "4", "object_repr": "ID: 4, Name: Quick Start, Type: Junior, Level: Beginner, Body Split: Total Body, YouTube ID: vZaipdW-ZHE, Date Created: 2011-10-16", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 6, "fields": {"action_time": "2025-07-26T00:39:11.959Z", "user": 1, "content_type": 11, "object_id": "5", "object_repr": "ID: 5, Name: Quick Burn, Type: Junior, Level: Beginner, Body Split: Lower Body, YouTube ID: QgLjlT908cw, Date Created: 2011-10-16", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 7, "fields": {"action_time": "2025-07-26T00:40:16.266Z", "user": 1, "content_type": 11, "object_id": "7", "object_repr": "ID: 7, Name: Quick Silver, Type: Junior, Level: Beginner, Body Split: Upper Body, YouTube ID: YOkDDiC-FZY, Date Created: 2012-06-04", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 8, "fields": {"action_time": "2025-07-26T00:41:48.468Z", "user": 1, "content_type": 11, "object_id": "13", "object_repr": "ID: 13, Name: Bread & Butter, Type: Basic, Level: Intermediate, Body Split: Total Body, YouTube ID: XBjVpH04HrQ, Date Created: 2012-06-03", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 9, "fields": {"action_time": "2025-07-26T00:42:45.551Z", "user": 1, "content_type": 11, "object_id": "20", "object_repr": "ID: 20, Name: BurpeEvo, Type: Basic, Level: Advanced, Body Split: Total Body, YouTube ID: o0d7hj39qEE, Date Created: 2011-10-15", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 10, "fields": {"action_time": "2025-07-26T00:43:30.210Z", "user": 1, "content_type": 11, "object_id": "16", "object_repr": "ID: 16, Name: Boot Camp, Type: Basic, Level: Advanced, Body Split: Total Body, YouTube ID: o0d7hj39qEE, Date Created: 2011-10-15", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 11, "fields": {"action_time": "2025-07-26T00:44:48.676Z", "user": 1, "content_type": 11, "object_id": "20", "object_repr": "ID: 20, Name: BurpeEvo, Type: Basic, Level: Advanced, Body Split: Total Body, YouTube ID: None, Date Created: 2019-08-13", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 12, "fields": {"action_time": "2025-07-26T00:46:57.963Z", "user": 1, "content_type": 11, "object_id": "31", "object_repr": "ID: 31, Name: Bang Bang Boogie, Type: Cardio, Level: Intermediate, Body Split: Total Body, YouTube ID: XsTgiagCMEE, Date Created: 2011-10-02", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 13, "fields": {"action_time": "2025-07-26T00:48:30.807Z", "user": 1, "content_type": 11, "object_id": "37", "object_repr": "ID: 37, Name: Evolution, Type: Cardio, Level: Expert, Body Split: Total Body, YouTube ID: 0bDVYbINGAQ, Date Created: 2011-10-02", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "admin.logentry", "pk": 14, "fields": {"action_time": "2025-07-26T00:52:07.015Z", "user": 1, "content_type": 11, "object_id": "71", "object_repr": "ID: 71, Name: NOT Easy, Type: Ultimate, Level: Master, Body Split: Total Body, YouTube ID: XLAZx3PZZi0, Date Created: 2019-08-13", "action_flag": 2, "change_message": "[]"}}, {"model": "admin.logentry", "pk": 15, "fields": {"action_time": "2025-07-26T00:52:28.495Z", "user": 1, "content_type": 11, "object_id": "59", "object_repr": "ID: 59, Name: Balance of Power, Type: Power, Level: Elite, Body Split: Total Body, YouTube ID: v-CBewisVE0, Date Created: 2012-06-03", "action_flag": 2, "change_message": "[{\"changed\": {\"fields\": [\"Youtube id\", \"Date created\"]}}]"}}, {"model": "auth.permission", "pk": 1, "fields": {"name": "Can add log entry", "content_type": 1, "codename": "add_logentry"}}, {"model": "auth.permission", "pk": 2, "fields": {"name": "Can change log entry", "content_type": 1, "codename": "change_logentry"}}, {"model": "auth.permission", "pk": 3, "fields": {"name": "Can delete log entry", "content_type": 1, "codename": "delete_logentry"}}, {"model": "auth.permission", "pk": 4, "fields": {"name": "Can view log entry", "content_type": 1, "codename": "view_logentry"}}, {"model": "auth.permission", "pk": 5, "fields": {"name": "Can add permission", "content_type": 2, "codename": "add_permission"}}, {"model": "auth.permission", "pk": 6, "fields": {"name": "Can change permission", "content_type": 2, "codename": "change_permission"}}, {"model": "auth.permission", "pk": 7, "fields": {"name": "Can delete permission", "content_type": 2, "codename": "delete_permission"}}, {"model": "auth.permission", "pk": 8, "fields": {"name": "Can view permission", "content_type": 2, "codename": "view_permission"}}, {"model": "auth.permission", "pk": 9, "fields": {"name": "Can add group", "content_type": 3, "codename": "add_group"}}, {"model": "auth.permission", "pk": 10, "fields": {"name": "Can change group", "content_type": 3, "codename": "change_group"}}, {"model": "auth.permission", "pk": 11, "fields": {"name": "Can delete group", "content_type": 3, "codename": "delete_group"}}, {"model": "auth.permission", "pk": 12, "fields": {"name": "Can view group", "content_type": 3, "codename": "view_group"}}, {"model": "auth.permission", "pk": 13, "fields": {"name": "Can add user", "content_type": 4, "codename": "add_user"}}, {"model": "auth.permission", "pk": 14, "fields": {"name": "Can change user", "content_type": 4, "codename": "change_user"}}, {"model": "auth.permission", "pk": 15, "fields": {"name": "Can delete user", "content_type": 4, "codename": "delete_user"}}, {"model": "auth.permission", "pk": 16, "fields": {"name": "Can view user", "content_type": 4, "codename": "view_user"}}, {"model": "auth.permission", "pk": 17, "fields": {"name": "Can add content type", "content_type": 5, "codename": "add_contenttype"}}, {"model": "auth.permission", "pk": 18, "fields": {"name": "Can change content type", "content_type": 5, "codename": "change_contenttype"}}, {"model": "auth.permission", "pk": 19, "fields": {"name": "Can delete content type", "content_type": 5, "codename": "delete_contenttype"}}, {"model": "auth.permission", "pk": 20, "fields": {"name": "Can view content type", "content_type": 5, "codename": "view_contenttype"}}, {"model": "auth.permission", "pk": 21, "fields": {"name": "Can add session", "content_type": 6, "codename": "add_session"}}, {"model": "auth.permission", "pk": 22, "fields": {"name": "Can change session", "content_type": 6, "codename": "change_session"}}, {"model": "auth.permission", "pk": 23, "fields": {"name": "Can delete session", "content_type": 6, "codename": "delete_session"}}, {"model": "auth.permission", "pk": 24, "fields": {"name": "Can view session", "content_type": 6, "codename": "view_session"}}, {"model": "auth.permission", "pk": 25, "fields": {"name": "Can add body split", "content_type": 7, "codename": "add_bodysplit"}}, {"model": "auth.permission", "pk": 26, "fields": {"name": "Can change body split", "content_type": 7, "codename": "change_bodysplit"}}, {"model": "auth.permission", "pk": 27, "fields": {"name": "Can delete body split", "content_type": 7, "codename": "delete_bodysplit"}}, {"model": "auth.permission", "pk": 28, "fields": {"name": "Can view body split", "content_type": 7, "codename": "view_bodysplit"}}, {"model": "auth.permission", "pk": 29, "fields": {"name": "Can add exercise", "content_type": 8, "codename": "add_exercise"}}, {"model": "auth.permission", "pk": 30, "fields": {"name": "Can change exercise", "content_type": 8, "codename": "change_exercise"}}, {"model": "auth.permission", "pk": 31, "fields": {"name": "Can delete exercise", "content_type": 8, "codename": "delete_exercise"}}, {"model": "auth.permission", "pk": 32, "fields": {"name": "Can view exercise", "content_type": 8, "codename": "view_exercise"}}, {"model": "auth.permission", "pk": 33, "fields": {"name": "Can add quickie level", "content_type": 9, "codename": "add_quickielevel"}}, {"model": "auth.permission", "pk": 34, "fields": {"name": "Can change quickie level", "content_type": 9, "codename": "change_quickielevel"}}, {"model": "auth.permission", "pk": 35, "fields": {"name": "Can delete quickie level", "content_type": 9, "codename": "delete_quickielevel"}}, {"model": "auth.permission", "pk": 36, "fields": {"name": "Can view quickie level", "content_type": 9, "codename": "view_quickielevel"}}, {"model": "auth.permission", "pk": 37, "fields": {"name": "Can add quickie type", "content_type": 10, "codename": "add_quickietype"}}, {"model": "auth.permission", "pk": 38, "fields": {"name": "Can change quickie type", "content_type": 10, "codename": "change_quickietype"}}, {"model": "auth.permission", "pk": 39, "fields": {"name": "Can delete quickie type", "content_type": 10, "codename": "delete_quickietype"}}, {"model": "auth.permission", "pk": 40, "fields": {"name": "Can view quickie type", "content_type": 10, "codename": "view_quickietype"}}, {"model": "auth.permission", "pk": 41, "fields": {"name": "Can add quickie", "content_type": 11, "codename": "add_quickie"}}, {"model": "auth.permission", "pk": 42, "fields": {"name": "Can change quickie", "content_type": 11, "codename": "change_quickie"}}, {"model": "auth.permission", "pk": 43, "fields": {"name": "Can delete quickie", "content_type": 11, "codename": "delete_quickie"}}, {"model": "auth.permission", "pk": 44, "fields": {"name": "Can view quickie", "content_type": 11, "codename": "view_quickie"}}, {"model": "auth.permission", "pk": 45, "fields": {"name": "Can add quickie exercise", "content_type": 12, "codename": "add_quickieexercise"}}, {"model": "auth.permission", "pk": 46, "fields": {"name": "Can change quickie exercise", "content_type": 12, "codename": "change_quickieexercise"}}, {"model": "auth.permission", "pk": 47, "fields": {"name": "Can delete quickie exercise", "content_type": 12, "codename": "delete_quickieexercise"}}, {"model": "auth.permission", "pk": 48, "fields": {"name": "Can view quickie exercise", "content_type": 12, "codename": "view_quickieexercise"}}, {"model": "auth.permission", "pk": 49, "fields": {"name": "Can add level", "content_type": 9, "codename": "add_level"}}, {"model": "auth.permission", "pk": 50, "fields": {"name": "Can change level", "content_type": 9, "codename": "change_level"}}, {"model": "auth.permission", "pk": 51, "fields": {"name": "Can delete level", "content_type": 9, "codename": "delete_level"}}, {"model": "auth.permission", "pk": 52, "fields": {"name": "Can view level", "content_type": 9, "codename": "view_level"}}, {"model": "auth.user", "pk": 1, "fields": {"password": "pbkdf2_sha256$1000000$R5tjrqJzO3x91PciBPwq9t$DTGAnpVmLdBGoZVJV6B3GmqWXnNSk4B2rzWyh1nJDBM=", "last_login": "2025-07-25T04:30:27.855Z", "is_superuser": true, "username": "christian.ochoa", "first_name": "", "last_name": "", "email": "calochoa@gmail.com", "is_staff": true, "is_active": true, "date_joined": "2025-07-25T04:30:20.933Z", "groups": [], "user_permissions": []}}, {"model": "contenttypes.contenttype", "pk": 1, "fields": {"app_label": "admin", "model": "logentry"}}, {"model": "contenttypes.contenttype", "pk": 2, "fields": {"app_label": "auth", "model": "permission"}}, {"model": "contenttypes.contenttype", "pk": 3, "fields": {"app_label": "auth", "model": "group"}}, {"model": "contenttypes.contenttype", "pk": 4, "fields": {"app_label": "auth", "model": "user"}}, {"model": "contenttypes.contenttype", "pk": 5, "fields": {"app_label": "contenttypes", "model": "contenttype"}}, {"model": "contenttypes.contenttype", "pk": 6, "fields": {"app_label": "sessions", "model": "session"}}, {"model": "contenttypes.contenttype", "pk": 7, "fields": {"app_label": "quickies", "model": "bodysplit"}}, {"model": "contenttypes.contenttype", "pk": 8, "fields": {"app_label": "quickies", "model": "exercise"}}, {"model": "contenttypes.contenttype", "pk": 9, "fields": {"app_label": "quickies", "model": "level"}}, {"model": "contenttypes.contenttype", "pk": 10, "fields": {"app_label": "quickies", "model": "quickietype"}}, {"model": "contenttypes.contenttype", "pk": 11, "fields": {"app_label": "quickies", "model": "quickie"}}, {"model": "contenttypes.contenttype", "pk": 12, "fields": {"app_label": "quickies", "model": "quickieexercise"}}, {"model": "sessions.session", "pk": "ax8eqg3y51j4ndsbpop5utaw7o5jtwo1", "fields": {"session_data": ".eJxVjEEOgjAQRe_StWlKqWVw6Z4zNDOdGUFNSSisjHdXEha6_e-9_zIJt3VMW5UlTWwupjGn340wP6TsgO9YbrPNc1mXieyu2INWO8wsz-vh_h2MWMdv3XYAkNETU8-xkRApth4lgIfI0AVWDlkdUa8iSA7bqNI4PSuohmzeH_wIOTM:1ufA4h:mcS-JKa_OFGOWWIevmQKXBD2Ry5fRuWT8KpyCcv8biw", "expire_date": "2025-08-08T04:30:27.861Z"}}, {"model": "quickies.quickietype", "pk": 1, "fields": {"qt_name": "Junior"}}, {"model": "quickies.quickietype", "pk": 2, "fields": {"qt_name": "Basic"}}, {"model": "quickies.quickietype", "pk": 3, "fields": {"qt_name": "Cardio"}}, {"model": "quickies.quickietype", "pk": 4, "fields": {"qt_name": "Bar"}}, {"model": "quickies.quickietype", "pk": 5, "fields": {"qt_name": "Power"}}, {"model": "quickies.quickietype", "pk": 6, "fields": {"qt_name": "Ultimate"}}, {"model": "quickies.quickietype", "pk": 7, "fields": {"qt_name": "Stretchies"}}, {"model": "quickies.level", "pk": 1, "fields": {"l_name": "Beginner", "l_value": 1}}, {"model": "quickies.level", "pk": 2, "fields": {"l_name": "Intermediate", "l_value": 2}}, {"model": "quickies.level", "pk": 3, "fields": {"l_name": "Advanced", "l_value": 3}}, {"model": "quickies.level", "pk": 4, "fields": {"l_name": "Expert", "l_value": 4}}, {"model": "quickies.level", "pk": 5, "fields": {"l_name": "Elite", "l_value": 5}}, {"model": "quickies.level", "pk": 6, "fields": {"l_name": "Master", "l_value": 6}}, {"model": "quickies.bodysplit", "pk": 1, "fields": {"bs_name": "Total Body"}}, {"model": "quickies.bodysplit", "pk": 2, "fields": {"bs_name": "Upper Body"}}, {"model": "quickies.bodysplit", "pk": 3, "fields": {"bs_name": "Lower Body"}}, {"model": "quickies.bodysplit", "pk": 4, "fields": {"bs_name": "Core"}}, {"model": "quickies.exercise", "pk": 1, "fields": {"e_name": "atomic tricep blasters", "e_level": 5}}, {"model": "quickies.exercise", "pk": 2, "fields": {"e_name": "behind the neck pull-ups", "e_level": 4}}, {"model": "quickies.exercise", "pk": 3, "fields": {"e_name": "bicycle crunches", "e_level": 2}}, {"model": "quickies.exercise", "pk": 4, "fields": {"e_name": "box squats", "e_level": 2}}, {"model": "quickies.exercise", "pk": 5, "fields": {"e_name": "burpee muscle-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 6, "fields": {"e_name": "burpee pull-ups", "e_level": 5}}, {"model": "quickies.exercise", "pk": 7, "fields": {"e_name": "burpee tuck jumps", "e_level": 5}}, {"model": "quickies.exercise", "pk": 8, "fields": {"e_name": "burpees", "e_level": 4}}, {"model": "quickies.exercise", "pk": 9, "fields": {"e_name": "calf jumps", "e_level": 1}}, {"model": "quickies.exercise", "pk": 10, "fields": {"e_name": "calf raises", "e_level": 1}}, {"model": "quickies.exercise", "pk": 11, "fields": {"e_name": "chest-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 12, "fields": {"e_name": "chin-ups", "e_level": 4}}, {"model": "quickies.exercise", "pk": 13, "fields": {"e_name": "clapping pull-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 14, "fields": {"e_name": "clapping push-ups", "e_level": 5}}, {"model": "quickies.exercise", "pk": 15, "fields": {"e_name": "commando pull-ups", "e_level": 4}}, {"model": "quickies.exercise", "pk": 16, "fields": {"e_name": "criss cross scissors", "e_level": 1}}, {"model": "quickies.exercise", "pk": 17, "fields": {"e_name": "crunch kicks", "e_level": 1}}, {"model": "quickies.exercise", "pk": 18, "fields": {"e_name": "crunches", "e_level": 1}}, {"model": "quickies.exercise", "pk": 19, "fields": {"e_name": "decline push-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 20, "fields": {"e_name": "dips", "e_level": 4}}, {"model": "quickies.exercise", "pk": 21, "fields": {"e_name": "forward backward hops", "e_level": 1}}, {"model": "quickies.exercise", "pk": 22, "fields": {"e_name": "four square hops", "e_level": 1}}, {"model": "quickies.exercise", "pk": 23, "fields": {"e_name": "front lever swings", "e_level": 6}}, {"model": "quickies.exercise", "pk": 24, "fields": {"e_name": "full-body crunches", "e_level": 3}}, {"model": "quickies.exercise", "pk": 25, "fields": {"e_name": "half-wipers", "e_level": 3}}, {"model": "quickies.exercise", "pk": 26, "fields": {"e_name": "handstand push-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 27, "fields": {"e_name": "hanging criss cross scissors", "e_level": 4}}, {"model": "quickies.exercise", "pk": 28, "fields": {"e_name": "hanging hurdles", "e_level": 3}}, {"model": "quickies.exercise", "pk": 29, "fields": {"e_name": "hanging knee raises", "e_level": 3}}, {"model": "quickies.exercise", "pk": 30, "fields": {"e_name": "hanging leg raises", "e_level": 4}}, {"model": "quickies.exercise", "pk": 31, "fields": {"e_name": "hanging leg rotations", "e_level": 4}}, {"model": "quickies.exercise", "pk": 32, "fields": {"e_name": "hanging oblique raises", "e_level": 3}}, {"model": "quickies.exercise", "pk": 33, "fields": {"e_name": "hanging open close scissors", "e_level": 4}}, {"model": "quickies.exercise", "pk": 34, "fields": {"e_name": "hanging shoot-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 35, "fields": {"e_name": "hanging up down scissors", "e_level": 4}}, {"model": "quickies.exercise", "pk": 36, "fields": {"e_name": "hanging wipers", "e_level": 6}}, {"model": "quickies.exercise", "pk": 37, "fields": {"e_name": "heiden hops", "e_level": 2}}, {"model": "quickies.exercise", "pk": 38, "fields": {"e_name": "high knees", "e_level": 1}}, {"model": "quickies.exercise", "pk": 39, "fields": {"e_name": "incline push-ups", "e_level": 1}}, {"model": "quickies.exercise", "pk": 40, "fields": {"e_name": "inverted rows", "e_level": 3}}, {"model": "quickies.exercise", "pk": 41, "fields": {"e_name": "jumping chin-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 42, "fields": {"e_name": "jumping jacks", "e_level": 1}}, {"model": "quickies.exercise", "pk": 43, "fields": {"e_name": "jumping lunges", "e_level": 4}}, {"model": "quickies.exercise", "pk": 44, "fields": {"e_name": "jumping pull-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 45, "fields": {"e_name": "knee strikes", "e_level": 1}}, {"model": "quickies.exercise", "pk": 46, "fields": {"e_name": "L sit pull-ups", "e_level": 5}}, {"model": "quickies.exercise", "pk": 47, "fields": {"e_name": "leg raises", "e_level": 2}}, {"model": "quickies.exercise", "pk": 48, "fields": {"e_name": "lunges", "e_level": 2}}, {"model": "quickies.exercise", "pk": 49, "fields": {"e_name": "mountain climbers", "e_level": 2}}, {"model": "quickies.exercise", "pk": 50, "fields": {"e_name": "muscle-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 51, "fields": {"e_name": "open close scissors", "e_level": 1}}, {"model": "quickies.exercise", "pk": 52, "fields": {"e_name": "pistol squats", "e_level": 5}}, {"model": "quickies.exercise", "pk": 53, "fields": {"e_name": "plank jacks", "e_level": 2}}, {"model": "quickies.exercise", "pk": 54, "fields": {"e_name": "pull-ups", "e_level": 4}}, {"model": "quickies.exercise", "pk": 55, "fields": {"e_name": "push-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 56, "fields": {"e_name": "rolling sit-ups", "e_level": 1}}, {"model": "quickies.exercise", "pk": 57, "fields": {"e_name": "seated dips", "e_level": 3}}, {"model": "quickies.exercise", "pk": 58, "fields": {"e_name": "shoot-ups", "e_level": 2}}, {"model": "quickies.exercise", "pk": 59, "fields": {"e_name": "side crunches", "e_level": 1}}, {"model": "quickies.exercise", "pk": 60, "fields": {"e_name": "side-to-side hops", "e_level": 1}}, {"model": "quickies.exercise", "pk": 61, "fields": {"e_name": "side-to-side pull-ups", "e_level": 5}}, {"model": "quickies.exercise", "pk": 62, "fields": {"e_name": "single-arm push-ups", "e_level": 6}}, {"model": "quickies.exercise", "pk": 63, "fields": {"e_name": "sit-ups", "e_level": 3}}, {"model": "quickies.exercise", "pk": 64, "fields": {"e_name": "spiderman push-ups", "e_level": 4}}, {"model": "quickies.exercise", "pk": 65, "fields": {"e_name": "squat jumps", "e_level": 3}}, {"model": "quickies.exercise", "pk": 66, "fields": {"e_name": "tuck jumps", "e_level": 4}}, {"model": "quickies.exercise", "pk": 67, "fields": {"e_name": "up down scissors", "e_level": 1}}, {"model": "quickies.exercise", "pk": 68, "fields": {"e_name": "wipers", "e_level": 4}}, {"model": "quickies.exercise", "pk": 69, "fields": {"e_name": "small arm circles", "e_level": 1}}, {"model": "quickies.exercise", "pk": 70, "fields": {"e_name": "reverse small arm circles", "e_level": 1}}, {"model": "quickies.exercise", "pk": 71, "fields": {"e_name": "large arm circles", "e_level": 1}}, {"model": "quickies.exercise", "pk": 72, "fields": {"e_name": "reverse large arm circles", "e_level": 1}}, {"model": "quickies.exercise", "pk": 73, "fields": {"e_name": "lateral arm raises", "e_level": 1}}, {"model": "quickies.exercise", "pk": 74, "fields": {"e_name": "front arm raises", "e_level": 1}}, {"model": "quickies.exercise", "pk": 75, "fields": {"e_name": "lateral rotator cuffs", "e_level": 1}}, {"model": "quickies.exercise", "pk": 76, "fields": {"e_name": "front rotator cuffs", "e_level": 1}}, {"model": "quickies.exercise", "pk": 77, "fields": {"e_name": "low arm criss crosses", "e_level": 1}}, {"model": "quickies.exercise", "pk": 78, "fields": {"e_name": "arm criss crosses", "e_level": 1}}, {"model": "quickies.exercise", "pk": 79, "fields": {"e_name": "high arm criss crosses", "e_level": 1}}, {"model": "quickies.exercise", "pk": 80, "fields": {"e_name": "running arm swings", "e_level": 1}}, {"model": "quickies.exercise", "pk": 81, "fields": {"e_name": "neck up-downs", "e_level": 1}}, {"model": "quickies.exercise", "pk": 82, "fields": {"e_name": "neck side-to-sides", "e_level": 1}}, {"model": "quickies.exercise", "pk": 83, "fields": {"e_name": "neck leans", "e_level": 1}}, {"model": "quickies.exercise", "pk": 84, "fields": {"e_name": "neck rotations", "e_level": 1}}, {"model": "quickies.exercise", "pk": 85, "fields": {"e_name": "heel-to-glutes", "e_level": 2}}, {"model": "quickies.exercise", "pk": 86, "fields": {"e_name": "knee hugs", "e_level": 2}}, {"model": "quickies.exercise", "pk": 87, "fields": {"e_name": "ankle hugs", "e_level": 2}}, {"model": "quickies.exercise", "pk": 88, "fields": {"e_name": "toe touches", "e_level": 2}}, {"model": "quickies.exercise", "pk": 89, "fields": {"e_name": "lateral leg swings", "e_level": 2}}, {"model": "quickies.exercise", "pk": 90, "fields": {"e_name": "front leg swings", "e_level": 2}}, {"model": "quickies.exercise", "pk": 91, "fields": {"e_name": "high hurdles", "e_level": 2}}, {"model": "quickies.exercise", "pk": 92, "fields": {"e_name": "reverse high hurdles", "e_level": 2}}, {"model": "quickies.quickie", "pk": 1, "fields": {"q_name": "Quick Core", "q_type": 1, "q_level": 1, "q_body_split": 4, "youtube_id": "S5X8Tt8IYRQ", "date_created": "2011-10-16"}}, {"model": "quickies.quickie", "pk": 2, "fields": {"q_name": "Quick Pack", "q_type": 1, "q_level": 1, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 3, "fields": {"q_name": "Quick Easy", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": "iS2Qt_JCdrc&t", "date_created": "2011-10-16"}}, {"model": "quickies.quickie", "pk": 4, "fields": {"q_name": "Quick Start", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": "vZaipdW-ZHE", "date_created": "2011-10-16"}}, {"model": "quickies.quickie", "pk": 5, "fields": {"q_name": "Quick Burn", "q_type": 1, "q_level": 1, "q_body_split": 3, "youtube_id": "QgLjlT908cw", "date_created": "2011-10-16"}}, {"model": "quickies.quickie", "pk": 6, "fields": {"q_name": "Quick Pump", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 7, "fields": {"q_name": "Quick Silver", "q_type": 1, "q_level": 1, "q_body_split": 2, "youtube_id": "YOkDDiC-FZY", "date_created": "2012-06-04"}}, {"model": "quickies.quickie", "pk": 8, "fields": {"q_name": "Quick Evo", "q_type": 1, "q_level": 1, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 9, "fields": {"q_name": "Quick Up", "q_type": 1, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 10, "fields": {"q_name": "Quick One", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 11, "fields": {"q_name": "Quick Burst", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 12, "fields": {"q_name": "Quick n Dirty", "q_type": 1, "q_level": 1, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 13, "fields": {"q_name": "Bread & Butter", "q_type": 2, "q_level": 2, "q_body_split": 1, "youtube_id": "XBjVpH04HrQ", "date_created": "2012-06-03"}}, {"model": "quickies.quickie", "pk": 14, "fields": {"q_name": "Core Galore", "q_type": 2, "q_level": 2, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 15, "fields": {"q_name": "Heating Up", "q_type": 2, "q_level": 2, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 16, "fields": {"q_name": "Boot Camp", "q_type": 2, "q_level": 3, "q_body_split": 1, "youtube_id": "o0d7hj39qEE", "date_created": "2011-10-15"}}, {"model": "quickies.quickie", "pk": 17, "fields": {"q_name": "Hard Core", "q_type": 2, "q_level": 3, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 18, "fields": {"q_name": "Push-Up or Shut Up", "q_type": 2, "q_level": 4, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 19, "fields": {"q_name": "Too Easy", "q_type": 2, "q_level": 4, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 20, "fields": {"q_name": "BurpeEvo", "q_type": 2, "q_level": 3, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 21, "fields": {"q_name": "Core Time", "q_type": 2, "q_level": 2, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 22, "fields": {"q_name": "Ab Time", "q_type": 2, "q_level": 3, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 23, "fields": {"q_name": "Six Pack", "q_type": 2, "q_level": 4, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 24, "fields": {"q_name": "Harder Core", "q_type": 2, "q_level": 4, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 25, "fields": {"q_name": "Up and Down", "q_type": 2, "q_level": 3, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 26, "fields": {"q_name": "Shape Up", "q_type": 2, "q_level": 2, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 27, "fields": {"q_name": "Step It Up", "q_type": 2, "q_level": 3, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 28, "fields": {"q_name": "Do It Now", "q_type": 2, "q_level": 3, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 29, "fields": {"q_name": "Nothing Special", "q_type": 2, "q_level": 2, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 30, "fields": {"q_name": "Hip-Hop U Dont Stop", "q_type": 3, "q_level": 2, "q_body_split": 3, "youtube_id": "Djm-gEMWcnQ", "date_created": "2011-10-02"}}, {"model": "quickies.quickie", "pk": 31, "fields": {"q_name": "Bang Bang Boogie", "q_type": 3, "q_level": 2, "q_body_split": 1, "youtube_id": "XsTgiagCMEE", "date_created": "2011-10-02"}}, {"model": "quickies.quickie", "pk": 32, "fields": {"q_name": "Beach Body", "q_type": 3, "q_level": 4, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 33, "fields": {"q_name": "Go Hard", "q_type": 3, "q_level": 3, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 34, "fields": {"q_name": "Hot In Here", "q_type": 3, "q_level": 3, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 35, "fields": {"q_name": "Cant Stop Wont Stop", "q_type": 3, "q_level": 4, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 36, "fields": {"q_name": "En Fuego", "q_type": 3, "q_level": 4, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 37, "fields": {"q_name": "Evolution", "q_type": 3, "q_level": 4, "q_body_split": 1, "youtube_id": "0bDVYbINGAQ", "date_created": "2011-10-02"}}, {"model": "quickies.quickie", "pk": 38, "fields": {"q_name": "Leg-endary", "q_type": 3, "q_level": 4, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 39, "fields": {"q_name": "Mondays", "q_type": 3, "q_level": 2, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 40, "fields": {"q_name": "24/7", "q_type": 3, "q_level": 2, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 41, "fields": {"q_name": "Nap Time", "q_type": 3, "q_level": 2, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 42, "fields": {"q_name": "I Got This", "q_type": 3, "q_level": 2, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 43, "fields": {"q_name": "Muffin Tops", "q_type": 3, "q_level": 3, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 44, "fields": {"q_name": "Wake Up", "q_type": 3, "q_level": 3, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 45, "fields": {"q_name": "Jump Start", "q_type": 3, "q_level": 3, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 46, "fields": {"q_name": "Some Day", "q_type": 3, "q_level": 4, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 47, "fields": {"q_name": "Quick Bar Starzz", "q_type": 4, "q_level": 1, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 48, "fields": {"q_name": "Quick Barz", "q_type": 4, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 49, "fields": {"q_name": "Baby Cobra", "q_type": 4, "q_level": 2, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 50, "fields": {"q_name": "Hang Time", "q_type": 4, "q_level": 3, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 51, "fields": {"q_name": "Bar Core", "q_type": 4, "q_level": 3, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 52, "fields": {"q_name": "Pull-Up or Shut Up", "q_type": 4, "q_level": 4, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 53, "fields": {"q_name": "King Cobra", "q_type": 4, "q_level": 4, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 54, "fields": {"q_name": "Bar Evolution", "q_type": 4, "q_level": 4, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 55, "fields": {"q_name": "Hanging Around", "q_type": 4, "q_level": 2, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 56, "fields": {"q_name": "Bar Fun", "q_type": 4, "q_level": 4, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 57, "fields": {"q_name": "Power Pack", "q_type": 5, "q_level": 5, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 58, "fields": {"q_name": "Turtle Power", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 59, "fields": {"q_name": "Balance of Power", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": "v-CBewisVE0", "date_created": "2012-06-03"}}, {"model": "quickies.quickie", "pk": 60, "fields": {"q_name": "Power Up", "q_type": 5, "q_level": 5, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 61, "fields": {"q_name": "Power Struggle", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 62, "fields": {"q_name": "Rise to Power", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 63, "fields": {"q_name": "Max Power", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 64, "fields": {"q_name": "Power Evolution", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 65, "fields": {"q_name": "Core Power", "q_type": 5, "q_level": 5, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 66, "fields": {"q_name": "Power Burst", "q_type": 5, "q_level": 5, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 67, "fields": {"q_name": "Powerful", "q_type": 5, "q_level": 5, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 68, "fields": {"q_name": "Power Hitter", "q_type": 5, "q_level": 5, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 69, "fields": {"q_name": "Absolute Power", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 70, "fields": {"q_name": "Power Play", "q_type": 5, "q_level": 5, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 71, "fields": {"q_name": "NOT Easy", "q_type": 6, "q_level": 6, "q_body_split": 1, "youtube_id": "XLAZx3PZZi0", "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 72, "fields": {"q_name": "Bar Starzz", "q_type": 6, "q_level": 6, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 73, "fields": {"q_name": "Jungle Gym", "q_type": 6, "q_level": 6, "q_body_split": 4, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 74, "fields": {"q_name": "Ultimate Evolution", "q_type": 6, "q_level": 6, "q_body_split": 1, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 75, "fields": {"q_name": "Upper Stretchie #1", "q_type": 7, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 76, "fields": {"q_name": "Upper Stretchie #2", "q_type": 7, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 77, "fields": {"q_name": "Upper Stretchie #3", "q_type": 7, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 78, "fields": {"q_name": "Upper Stretchie #4", "q_type": 7, "q_level": 1, "q_body_split": 2, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 79, "fields": {"q_name": "Lower Stretchie #1", "q_type": 7, "q_level": 2, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickie", "pk": 80, "fields": {"q_name": "Lower Stretchie #2", "q_type": 7, "q_level": 2, "q_body_split": 3, "youtube_id": null, "date_created": "2019-08-13"}}, {"model": "quickies.quickieexercise", "pk": 1, "fields": {"quickie": 1, "exercise": 18, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 2, "fields": {"quickie": 1, "exercise": 59, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 3, "fields": {"quickie": 1, "exercise": 56, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 4, "fields": {"quickie": 1, "exercise": 47, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 5, "fields": {"quickie": 2, "exercise": 17, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 6, "fields": {"quickie": 2, "exercise": 56, "reps": 5, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 7, "fields": {"quickie": 2, "exercise": 51, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 8, "fields": {"quickie": 3, "exercise": 48, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 9, "fields": {"quickie": 3, "exercise": 39, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 10, "fields": {"quickie": 3, "exercise": 18, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 11, "fields": {"quickie": 3, "exercise": 42, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 12, "fields": {"quickie": 4, "exercise": 49, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 13, "fields": {"quickie": 4, "exercise": 67, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 14, "fields": {"quickie": 4, "exercise": 38, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 15, "fields": {"quickie": 4, "exercise": 10, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 16, "fields": {"quickie": 5, "exercise": 48, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 17, "fields": {"quickie": 5, "exercise": 4, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 18, "fields": {"quickie": 5, "exercise": 9, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 19, "fields": {"quickie": 5, "exercise": 38, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 20, "fields": {"quickie": 6, "exercise": 9, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 21, "fields": {"quickie": 6, "exercise": 4, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 22, "fields": {"quickie": 6, "exercise": 49, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 23, "fields": {"quickie": 6, "exercise": 39, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 24, "fields": {"quickie": 7, "exercise": 57, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 25, "fields": {"quickie": 7, "exercise": 53, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 26, "fields": {"quickie": 7, "exercise": 39, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 27, "fields": {"quickie": 7, "exercise": 49, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 28, "fields": {"quickie": 8, "exercise": 4, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 29, "fields": {"quickie": 8, "exercise": 10, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 30, "fields": {"quickie": 8, "exercise": 9, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 31, "fields": {"quickie": 8, "exercise": 65, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 32, "fields": {"quickie": 9, "exercise": 55, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 33, "fields": {"quickie": 9, "exercise": 53, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 34, "fields": {"quickie": 9, "exercise": 49, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 35, "fields": {"quickie": 9, "exercise": 39, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 36, "fields": {"quickie": 10, "exercise": 55, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 37, "fields": {"quickie": 10, "exercise": 4, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 38, "fields": {"quickie": 10, "exercise": 16, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 39, "fields": {"quickie": 10, "exercise": 53, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 40, "fields": {"quickie": 11, "exercise": 42, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 41, "fields": {"quickie": 11, "exercise": 38, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 42, "fields": {"quickie": 11, "exercise": 49, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 43, "fields": {"quickie": 11, "exercise": 53, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 44, "fields": {"quickie": 12, "exercise": 56, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 45, "fields": {"quickie": 12, "exercise": 39, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 46, "fields": {"quickie": 12, "exercise": 4, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 47, "fields": {"quickie": 12, "exercise": 42, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 48, "fields": {"quickie": 13, "exercise": 48, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 49, "fields": {"quickie": 13, "exercise": 45, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 50, "fields": {"quickie": 13, "exercise": 24, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 51, "fields": {"quickie": 13, "exercise": 8, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 52, "fields": {"quickie": 14, "exercise": 58, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 53, "fields": {"quickie": 14, "exercise": 17, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 54, "fields": {"quickie": 14, "exercise": 16, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 55, "fields": {"quickie": 15, "exercise": 65, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 56, "fields": {"quickie": 15, "exercise": 48, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 57, "fields": {"quickie": 15, "exercise": 4, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 58, "fields": {"quickie": 15, "exercise": 9, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 59, "fields": {"quickie": 16, "exercise": 64, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 60, "fields": {"quickie": 16, "exercise": 1, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 61, "fields": {"quickie": 16, "exercise": 24, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 62, "fields": {"quickie": 16, "exercise": 58, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 63, "fields": {"quickie": 17, "exercise": 63, "reps": 25, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 64, "fields": {"quickie": 17, "exercise": 47, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 65, "fields": {"quickie": 17, "exercise": 3, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 66, "fields": {"quickie": 17, "exercise": 24, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 67, "fields": {"quickie": 18, "exercise": 64, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 68, "fields": {"quickie": 18, "exercise": 19, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 69, "fields": {"quickie": 18, "exercise": 55, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 70, "fields": {"quickie": 18, "exercise": 14, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 71, "fields": {"quickie": 19, "exercise": 54, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 72, "fields": {"quickie": 19, "exercise": 1, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 73, "fields": {"quickie": 19, "exercise": 57, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 74, "fields": {"quickie": 19, "exercise": 19, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 75, "fields": {"quickie": 20, "exercise": 4, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 76, "fields": {"quickie": 20, "exercise": 55, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 77, "fields": {"quickie": 20, "exercise": 65, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 78, "fields": {"quickie": 20, "exercise": 8, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 79, "fields": {"quickie": 21, "exercise": 67, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 80, "fields": {"quickie": 21, "exercise": 16, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 81, "fields": {"quickie": 21, "exercise": 51, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 82, "fields": {"quickie": 21, "exercise": 47, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 83, "fields": {"quickie": 22, "exercise": 24, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 84, "fields": {"quickie": 22, "exercise": 3, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 85, "fields": {"quickie": 22, "exercise": 47, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 86, "fields": {"quickie": 23, "exercise": 3, "reps": 40, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 87, "fields": {"quickie": 23, "exercise": 67, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 88, "fields": {"quickie": 23, "exercise": 24, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 89, "fields": {"quickie": 24, "exercise": 11, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 90, "fields": {"quickie": 24, "exercise": 16, "reps": 40, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 91, "fields": {"quickie": 24, "exercise": 24, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 92, "fields": {"quickie": 25, "exercise": 10, "reps": 40, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 93, "fields": {"quickie": 25, "exercise": 4, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 94, "fields": {"quickie": 25, "exercise": 9, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 95, "fields": {"quickie": 25, "exercise": 65, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 96, "fields": {"quickie": 26, "exercise": 55, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 97, "fields": {"quickie": 26, "exercise": 57, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 98, "fields": {"quickie": 26, "exercise": 53, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 99, "fields": {"quickie": 26, "exercise": 19, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 100, "fields": {"quickie": 27, "exercise": 8, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 101, "fields": {"quickie": 27, "exercise": 19, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 102, "fields": {"quickie": 27, "exercise": 49, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 103, "fields": {"quickie": 27, "exercise": 1, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 104, "fields": {"quickie": 28, "exercise": 64, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 105, "fields": {"quickie": 28, "exercise": 40, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 106, "fields": {"quickie": 28, "exercise": 20, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 107, "fields": {"quickie": 28, "exercise": 55, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 108, "fields": {"quickie": 29, "exercise": 41, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 109, "fields": {"quickie": 29, "exercise": 55, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 110, "fields": {"quickie": 29, "exercise": 49, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 111, "fields": {"quickie": 29, "exercise": 39, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 112, "fields": {"quickie": 30, "exercise": 37, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 113, "fields": {"quickie": 30, "exercise": 21, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 114, "fields": {"quickie": 30, "exercise": 60, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 115, "fields": {"quickie": 30, "exercise": 22, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 116, "fields": {"quickie": 31, "exercise": 37, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 117, "fields": {"quickie": 31, "exercise": 45, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 118, "fields": {"quickie": 31, "exercise": 49, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 119, "fields": {"quickie": 31, "exercise": 8, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 120, "fields": {"quickie": 32, "exercise": 49, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 121, "fields": {"quickie": 32, "exercise": 16, "reps": 40, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 122, "fields": {"quickie": 32, "exercise": 3, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 123, "fields": {"quickie": 32, "exercise": 8, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 124, "fields": {"quickie": 33, "exercise": 38, "reps": 50, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 125, "fields": {"quickie": 33, "exercise": 64, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 126, "fields": {"quickie": 33, "exercise": 3, "reps": 50, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 127, "fields": {"quickie": 33, "exercise": 43, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 128, "fields": {"quickie": 34, "exercise": 37, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 129, "fields": {"quickie": 34, "exercise": 45, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 130, "fields": {"quickie": 34, "exercise": 65, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 131, "fields": {"quickie": 34, "exercise": 43, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 132, "fields": {"quickie": 35, "exercise": 9, "reps": 50, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 133, "fields": {"quickie": 35, "exercise": 65, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 134, "fields": {"quickie": 35, "exercise": 38, "reps": 50, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 135, "fields": {"quickie": 35, "exercise": 8, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 136, "fields": {"quickie": 36, "exercise": 64, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 137, "fields": {"quickie": 36, "exercise": 49, "reps": 40, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 138, "fields": {"quickie": 36, "exercise": 8, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 139, "fields": {"quickie": 36, "exercise": 38, "reps": 40, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 140, "fields": {"quickie": 37, "exercise": 65, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 141, "fields": {"quickie": 37, "exercise": 54, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 142, "fields": {"quickie": 37, "exercise": 8, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 143, "fields": {"quickie": 37, "exercise": 6, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 144, "fields": {"quickie": 38, "exercise": 66, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 145, "fields": {"quickie": 38, "exercise": 43, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 146, "fields": {"quickie": 38, "exercise": 37, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 147, "fields": {"quickie": 38, "exercise": 38, "reps": 40, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 148, "fields": {"quickie": 39, "exercise": 38, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 149, "fields": {"quickie": 39, "exercise": 37, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 150, "fields": {"quickie": 39, "exercise": 49, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 151, "fields": {"quickie": 39, "exercise": 67, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 152, "fields": {"quickie": 40, "exercise": 55, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 153, "fields": {"quickie": 40, "exercise": 67, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 154, "fields": {"quickie": 40, "exercise": 65, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 155, "fields": {"quickie": 40, "exercise": 42, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 156, "fields": {"quickie": 41, "exercise": 51, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 157, "fields": {"quickie": 41, "exercise": 3, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 158, "fields": {"quickie": 41, "exercise": 53, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 159, "fields": {"quickie": 41, "exercise": 42, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 160, "fields": {"quickie": 42, "exercise": 55, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 161, "fields": {"quickie": 42, "exercise": 16, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 162, "fields": {"quickie": 42, "exercise": 4, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 163, "fields": {"quickie": 42, "exercise": 38, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 164, "fields": {"quickie": 43, "exercise": 45, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 165, "fields": {"quickie": 43, "exercise": 64, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 166, "fields": {"quickie": 43, "exercise": 3, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 167, "fields": {"quickie": 43, "exercise": 68, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 168, "fields": {"quickie": 44, "exercise": 38, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 169, "fields": {"quickie": 44, "exercise": 49, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 170, "fields": {"quickie": 44, "exercise": 66, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 171, "fields": {"quickie": 44, "exercise": 8, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 172, "fields": {"quickie": 45, "exercise": 42, "reps": 40, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 173, "fields": {"quickie": 45, "exercise": 9, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 174, "fields": {"quickie": 45, "exercise": 65, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 175, "fields": {"quickie": 45, "exercise": 43, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 176, "fields": {"quickie": 46, "exercise": 54, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 177, "fields": {"quickie": 46, "exercise": 8, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 178, "fields": {"quickie": 46, "exercise": 14, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 179, "fields": {"quickie": 46, "exercise": 7, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 180, "fields": {"quickie": 47, "exercise": 41, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 181, "fields": {"quickie": 47, "exercise": 29, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 182, "fields": {"quickie": 47, "exercise": 44, "reps": 5, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 183, "fields": {"quickie": 47, "exercise": 32, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 184, "fields": {"quickie": 48, "exercise": 20, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 185, "fields": {"quickie": 48, "exercise": 40, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 186, "fields": {"quickie": 48, "exercise": 39, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 187, "fields": {"quickie": 48, "exercise": 29, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 188, "fields": {"quickie": 49, "exercise": 41, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 189, "fields": {"quickie": 49, "exercise": 44, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 190, "fields": {"quickie": 49, "exercise": 12, "reps": 5, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 191, "fields": {"quickie": 49, "exercise": 40, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 192, "fields": {"quickie": 50, "exercise": 35, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 193, "fields": {"quickie": 50, "exercise": 27, "reps": 15, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 194, "fields": {"quickie": 50, "exercise": 33, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 195, "fields": {"quickie": 50, "exercise": 30, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 196, "fields": {"quickie": 51, "exercise": 28, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 197, "fields": {"quickie": 51, "exercise": 30, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 198, "fields": {"quickie": 51, "exercise": 35, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 199, "fields": {"quickie": 51, "exercise": 31, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 200, "fields": {"quickie": 52, "exercise": 54, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 201, "fields": {"quickie": 52, "exercise": 61, "reps": 5, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 202, "fields": {"quickie": 52, "exercise": 2, "reps": 5, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 203, "fields": {"quickie": 52, "exercise": 15, "reps": 5, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 204, "fields": {"quickie": 53, "exercise": 13, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 205, "fields": {"quickie": 53, "exercise": 54, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 206, "fields": {"quickie": 53, "exercise": 12, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 207, "fields": {"quickie": 53, "exercise": 40, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 208, "fields": {"quickie": 54, "exercise": 29, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 209, "fields": {"quickie": 54, "exercise": 30, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 210, "fields": {"quickie": 54, "exercise": 54, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 211, "fields": {"quickie": 54, "exercise": 46, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 212, "fields": {"quickie": 55, "exercise": 54, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 213, "fields": {"quickie": 55, "exercise": 40, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 214, "fields": {"quickie": 55, "exercise": 35, "reps": 15, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 215, "fields": {"quickie": 55, "exercise": 29, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 216, "fields": {"quickie": 56, "exercise": 20, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 217, "fields": {"quickie": 56, "exercise": 27, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 218, "fields": {"quickie": 56, "exercise": 54, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 219, "fields": {"quickie": 56, "exercise": 33, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 220, "fields": {"quickie": 57, "exercise": 68, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 221, "fields": {"quickie": 57, "exercise": 11, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 222, "fields": {"quickie": 57, "exercise": 24, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 223, "fields": {"quickie": 57, "exercise": 58, "reps": 50, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 224, "fields": {"quickie": 58, "exercise": 64, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 225, "fields": {"quickie": 58, "exercise": 8, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 226, "fields": {"quickie": 58, "exercise": 65, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 227, "fields": {"quickie": 58, "exercise": 68, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 228, "fields": {"quickie": 59, "exercise": 6, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 229, "fields": {"quickie": 59, "exercise": 43, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 230, "fields": {"quickie": 59, "exercise": 1, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 231, "fields": {"quickie": 59, "exercise": 24, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 232, "fields": {"quickie": 60, "exercise": 14, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 233, "fields": {"quickie": 60, "exercise": 64, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 234, "fields": {"quickie": 60, "exercise": 1, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 235, "fields": {"quickie": 60, "exercise": 20, "reps": 20, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 236, "fields": {"quickie": 61, "exercise": 54, "reps": 25, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 237, "fields": {"quickie": 61, "exercise": 30, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 238, "fields": {"quickie": 61, "exercise": 8, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 239, "fields": {"quickie": 61, "exercise": 1, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 240, "fields": {"quickie": 62, "exercise": 38, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 241, "fields": {"quickie": 62, "exercise": 14, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 242, "fields": {"quickie": 62, "exercise": 65, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 243, "fields": {"quickie": 62, "exercise": 8, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 244, "fields": {"quickie": 63, "exercise": 54, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 245, "fields": {"quickie": 63, "exercise": 65, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 246, "fields": {"quickie": 63, "exercise": 64, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 247, "fields": {"quickie": 63, "exercise": 8, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 248, "fields": {"quickie": 64, "exercise": 4, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 249, "fields": {"quickie": 64, "exercise": 8, "reps": 30, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 250, "fields": {"quickie": 64, "exercise": 66, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 251, "fields": {"quickie": 64, "exercise": 7, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 252, "fields": {"quickie": 65, "exercise": 11, "reps": 40, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 253, "fields": {"quickie": 65, "exercise": 16, "reps": 50, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 254, "fields": {"quickie": 65, "exercise": 58, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 255, "fields": {"quickie": 65, "exercise": 3, "reps": 50, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 256, "fields": {"quickie": 66, "exercise": 65, "reps": 30, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 257, "fields": {"quickie": 66, "exercise": 9, "reps": 50, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 258, "fields": {"quickie": 66, "exercise": 66, "reps": 30, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 259, "fields": {"quickie": 66, "exercise": 38, "reps": 50, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 260, "fields": {"quickie": 67, "exercise": 43, "reps": 25, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 261, "fields": {"quickie": 67, "exercise": 37, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 262, "fields": {"quickie": 67, "exercise": 65, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 263, "fields": {"quickie": 67, "exercise": 7, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 264, "fields": {"quickie": 68, "exercise": 13, "reps": 15, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 265, "fields": {"quickie": 68, "exercise": 14, "reps": 20, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 266, "fields": {"quickie": 68, "exercise": 20, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 267, "fields": {"quickie": 68, "exercise": 8, "reps": 30, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 268, "fields": {"quickie": 69, "exercise": 13, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 269, "fields": {"quickie": 69, "exercise": 24, "reps": 40, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 270, "fields": {"quickie": 69, "exercise": 8, "reps": 20, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 271, "fields": {"quickie": 69, "exercise": 66, "reps": 40, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 272, "fields": {"quickie": 70, "exercise": 37, "reps": 25, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 273, "fields": {"quickie": 70, "exercise": 8, "reps": 25, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 274, "fields": {"quickie": 70, "exercise": 64, "reps": 25, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 275, "fields": {"quickie": 70, "exercise": 66, "reps": 25, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 276, "fields": {"quickie": 71, "exercise": 26, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 277, "fields": {"quickie": 71, "exercise": 6, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 278, "fields": {"quickie": 71, "exercise": 52, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 279, "fields": {"quickie": 72, "exercise": 46, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 280, "fields": {"quickie": 72, "exercise": 23, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 281, "fields": {"quickie": 72, "exercise": 50, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 282, "fields": {"quickie": 72, "exercise": 13, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 283, "fields": {"quickie": 73, "exercise": 34, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 284, "fields": {"quickie": 73, "exercise": 36, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 285, "fields": {"quickie": 73, "exercise": 31, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 286, "fields": {"quickie": 73, "exercise": 23, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 287, "fields": {"quickie": 74, "exercise": 8, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 288, "fields": {"quickie": 74, "exercise": 6, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 289, "fields": {"quickie": 74, "exercise": 50, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 290, "fields": {"quickie": 74, "exercise": 5, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 291, "fields": {"quickie": 2, "exercise": 25, "reps": 5, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 292, "fields": {"quickie": 14, "exercise": 25, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 293, "fields": {"quickie": 22, "exercise": 25, "reps": 15, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 294, "fields": {"quickie": 23, "exercise": 25, "reps": 20, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 295, "fields": {"quickie": 24, "exercise": 25, "reps": 40, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 296, "fields": {"quickie": 71, "exercise": 62, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 297, "fields": {"quickie": 75, "exercise": 69, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 298, "fields": {"quickie": 75, "exercise": 70, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 299, "fields": {"quickie": 75, "exercise": 71, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 300, "fields": {"quickie": 75, "exercise": 72, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 301, "fields": {"quickie": 76, "exercise": 73, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 302, "fields": {"quickie": 76, "exercise": 74, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 303, "fields": {"quickie": 76, "exercise": 75, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 304, "fields": {"quickie": 76, "exercise": 76, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 305, "fields": {"quickie": 77, "exercise": 77, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 306, "fields": {"quickie": 77, "exercise": 78, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 307, "fields": {"quickie": 77, "exercise": 79, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 308, "fields": {"quickie": 77, "exercise": 80, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 309, "fields": {"quickie": 78, "exercise": 81, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 310, "fields": {"quickie": 78, "exercise": 82, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 311, "fields": {"quickie": 78, "exercise": 83, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 312, "fields": {"quickie": 78, "exercise": 84, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 313, "fields": {"quickie": 79, "exercise": 85, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 314, "fields": {"quickie": 79, "exercise": 86, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 315, "fields": {"quickie": 79, "exercise": 87, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 316, "fields": {"quickie": 79, "exercise": 88, "reps": 10, "order": 4}}, {"model": "quickies.quickieexercise", "pk": 317, "fields": {"quickie": 80, "exercise": 89, "reps": 10, "order": 1}}, {"model": "quickies.quickieexercise", "pk": 318, "fields": {"quickie": 80, "exercise": 90, "reps": 10, "order": 2}}, {"model": "quickies.quickieexercise", "pk": 319, "fields": {"quickie": 80, "exercise": 91, "reps": 10, "order": 3}}, {"model": "quickies.quickieexercise", "pk": 320, "fields": {"quickie": 80, "exercise": 92, "reps": 10, "order": 4}}]
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$1000000$R5tjrqJzO3x91PciBPwq9t$DTGAnpVmLdBGoZVJV6B3GmqWXnNSk4B2rzWyh1nJDBM=",
+            "last_login": "2025-07-25T04:30:27.855Z",
+            "is_superuser": true,
+            "username": "christian.ochoa",
+            "first_name": "",
+            "last_name": "",
+            "email": "calochoa@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2025-07-25T04:30:20.933Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 1,
+        "fields": {
+            "qt_name": "Junior"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 2,
+        "fields": {
+            "qt_name": "Basic"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 3,
+        "fields": {
+            "qt_name": "Cardio"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 4,
+        "fields": {
+            "qt_name": "Bar"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 5,
+        "fields": {
+            "qt_name": "Power"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 6,
+        "fields": {
+            "qt_name": "Ultimate"
+        }
+    },
+    {
+        "model": "quickies.quickietype",
+        "pk": 7,
+        "fields": {
+            "qt_name": "Stretchies"
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 1,
+        "fields": {
+            "l_name": "Beginner",
+            "l_value": 1
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 2,
+        "fields": {
+            "l_name": "Intermediate",
+            "l_value": 2
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 3,
+        "fields": {
+            "l_name": "Advanced",
+            "l_value": 3
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 4,
+        "fields": {
+            "l_name": "Expert",
+            "l_value": 4
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 5,
+        "fields": {
+            "l_name": "Elite",
+            "l_value": 5
+        }
+    },
+    {
+        "model": "quickies.level",
+        "pk": 6,
+        "fields": {
+            "l_name": "Master",
+            "l_value": 6
+        }
+    },
+    {
+        "model": "quickies.bodysplit",
+        "pk": 1,
+        "fields": {
+            "bs_name": "Total Body"
+        }
+    },
+    {
+        "model": "quickies.bodysplit",
+        "pk": 2,
+        "fields": {
+            "bs_name": "Upper Body"
+        }
+    },
+    {
+        "model": "quickies.bodysplit",
+        "pk": 3,
+        "fields": {
+            "bs_name": "Lower Body"
+        }
+    },
+    {
+        "model": "quickies.bodysplit",
+        "pk": 4,
+        "fields": {
+            "bs_name": "Core"
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 1,
+        "fields": {
+            "e_name": "atomic tricep blasters",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 2,
+        "fields": {
+            "e_name": "behind the neck pull-ups",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 3,
+        "fields": {
+            "e_name": "bicycle crunches",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 4,
+        "fields": {
+            "e_name": "box squats",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 5,
+        "fields": {
+            "e_name": "burpee muscle-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 6,
+        "fields": {
+            "e_name": "burpee pull-ups",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 7,
+        "fields": {
+            "e_name": "burpee tuck jumps",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 8,
+        "fields": {
+            "e_name": "burpees",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 9,
+        "fields": {
+            "e_name": "calf jumps",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 10,
+        "fields": {
+            "e_name": "calf raises",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 11,
+        "fields": {
+            "e_name": "chest-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 12,
+        "fields": {
+            "e_name": "chin-ups",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 13,
+        "fields": {
+            "e_name": "clapping pull-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 14,
+        "fields": {
+            "e_name": "clapping push-ups",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 15,
+        "fields": {
+            "e_name": "commando pull-ups",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 16,
+        "fields": {
+            "e_name": "criss cross scissors",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 17,
+        "fields": {
+            "e_name": "crunch kicks",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 18,
+        "fields": {
+            "e_name": "crunches",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 19,
+        "fields": {
+            "e_name": "decline push-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 20,
+        "fields": {
+            "e_name": "dips",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 21,
+        "fields": {
+            "e_name": "forward backward hops",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 22,
+        "fields": {
+            "e_name": "four square hops",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 23,
+        "fields": {
+            "e_name": "front lever swings",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 24,
+        "fields": {
+            "e_name": "full-body crunches",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 25,
+        "fields": {
+            "e_name": "half-wipers",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 26,
+        "fields": {
+            "e_name": "handstand push-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 27,
+        "fields": {
+            "e_name": "hanging criss cross scissors",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 28,
+        "fields": {
+            "e_name": "hanging hurdles",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 29,
+        "fields": {
+            "e_name": "hanging knee raises",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 30,
+        "fields": {
+            "e_name": "hanging leg raises",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 31,
+        "fields": {
+            "e_name": "hanging leg rotations",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 32,
+        "fields": {
+            "e_name": "hanging oblique raises",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 33,
+        "fields": {
+            "e_name": "hanging open close scissors",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 34,
+        "fields": {
+            "e_name": "hanging shoot-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 35,
+        "fields": {
+            "e_name": "hanging up down scissors",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 36,
+        "fields": {
+            "e_name": "hanging wipers",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 37,
+        "fields": {
+            "e_name": "heiden hops",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 38,
+        "fields": {
+            "e_name": "high knees",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 39,
+        "fields": {
+            "e_name": "incline push-ups",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 40,
+        "fields": {
+            "e_name": "inverted rows",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 41,
+        "fields": {
+            "e_name": "jumping chin-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 42,
+        "fields": {
+            "e_name": "jumping jacks",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 43,
+        "fields": {
+            "e_name": "jumping lunges",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 44,
+        "fields": {
+            "e_name": "jumping pull-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 45,
+        "fields": {
+            "e_name": "knee strikes",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 46,
+        "fields": {
+            "e_name": "L sit pull-ups",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 47,
+        "fields": {
+            "e_name": "leg raises",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 48,
+        "fields": {
+            "e_name": "lunges",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 49,
+        "fields": {
+            "e_name": "mountain climbers",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 50,
+        "fields": {
+            "e_name": "muscle-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 51,
+        "fields": {
+            "e_name": "open close scissors",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 52,
+        "fields": {
+            "e_name": "pistol squats",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 53,
+        "fields": {
+            "e_name": "plank jacks",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 54,
+        "fields": {
+            "e_name": "pull-ups",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 55,
+        "fields": {
+            "e_name": "push-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 56,
+        "fields": {
+            "e_name": "rolling sit-ups",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 57,
+        "fields": {
+            "e_name": "seated dips",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 58,
+        "fields": {
+            "e_name": "shoot-ups",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 59,
+        "fields": {
+            "e_name": "side crunches",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 60,
+        "fields": {
+            "e_name": "side-to-side hops",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 61,
+        "fields": {
+            "e_name": "side-to-side pull-ups",
+            "e_level": 5
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 62,
+        "fields": {
+            "e_name": "single-arm push-ups",
+            "e_level": 6
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 63,
+        "fields": {
+            "e_name": "sit-ups",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 64,
+        "fields": {
+            "e_name": "spiderman push-ups",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 65,
+        "fields": {
+            "e_name": "squat jumps",
+            "e_level": 3
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 66,
+        "fields": {
+            "e_name": "tuck jumps",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 67,
+        "fields": {
+            "e_name": "up down scissors",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 68,
+        "fields": {
+            "e_name": "wipers",
+            "e_level": 4
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 69,
+        "fields": {
+            "e_name": "small arm circles",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 70,
+        "fields": {
+            "e_name": "reverse small arm circles",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 71,
+        "fields": {
+            "e_name": "large arm circles",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 72,
+        "fields": {
+            "e_name": "reverse large arm circles",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 73,
+        "fields": {
+            "e_name": "lateral arm raises",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 74,
+        "fields": {
+            "e_name": "front arm raises",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 75,
+        "fields": {
+            "e_name": "lateral rotator cuffs",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 76,
+        "fields": {
+            "e_name": "front rotator cuffs",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 77,
+        "fields": {
+            "e_name": "low arm criss crosses",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 78,
+        "fields": {
+            "e_name": "arm criss crosses",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 79,
+        "fields": {
+            "e_name": "high arm criss crosses",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 80,
+        "fields": {
+            "e_name": "running arm swings",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 81,
+        "fields": {
+            "e_name": "neck up-downs",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 82,
+        "fields": {
+            "e_name": "neck side-to-sides",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 83,
+        "fields": {
+            "e_name": "neck leans",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 84,
+        "fields": {
+            "e_name": "neck rotations",
+            "e_level": 1
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 85,
+        "fields": {
+            "e_name": "heel-to-glutes",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 86,
+        "fields": {
+            "e_name": "knee hugs",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 87,
+        "fields": {
+            "e_name": "ankle hugs",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 88,
+        "fields": {
+            "e_name": "toe touches",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 89,
+        "fields": {
+            "e_name": "lateral leg swings",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 90,
+        "fields": {
+            "e_name": "front leg swings",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 91,
+        "fields": {
+            "e_name": "high hurdles",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.exercise",
+        "pk": 92,
+        "fields": {
+            "e_name": "reverse high hurdles",
+            "e_level": 2
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 1,
+        "fields": {
+            "q_name": "Quick Core",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 4,
+            "youtube_id": "S5X8Tt8IYRQ",
+            "date_created": "2011-10-16"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 2,
+        "fields": {
+            "q_name": "Quick Pack",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 3,
+        "fields": {
+            "q_name": "Quick Easy",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": "iS2Qt_JCdrc&t",
+            "date_created": "2011-10-16"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 4,
+        "fields": {
+            "q_name": "Quick Start",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": "vZaipdW-ZHE",
+            "date_created": "2011-10-16"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 5,
+        "fields": {
+            "q_name": "Quick Burn",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 3,
+            "youtube_id": "QgLjlT908cw",
+            "date_created": "2011-10-16"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 6,
+        "fields": {
+            "q_name": "Quick Pump",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 7,
+        "fields": {
+            "q_name": "Quick Silver",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": "YOkDDiC-FZY",
+            "date_created": "2012-06-04"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 8,
+        "fields": {
+            "q_name": "Quick Evo",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 9,
+        "fields": {
+            "q_name": "Quick Up",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 10,
+        "fields": {
+            "q_name": "Quick One",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 11,
+        "fields": {
+            "q_name": "Quick Burst",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 12,
+        "fields": {
+            "q_name": "Quick n Dirty",
+            "q_type": 1,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 13,
+        "fields": {
+            "q_name": "Bread & Butter",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": "XBjVpH04HrQ",
+            "date_created": "2012-06-03"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 14,
+        "fields": {
+            "q_name": "Core Galore",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 15,
+        "fields": {
+            "q_name": "Heating Up",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 16,
+        "fields": {
+            "q_name": "Boot Camp",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 1,
+            "youtube_id": "o0d7hj39qEE",
+            "date_created": "2011-10-15"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 17,
+        "fields": {
+            "q_name": "Hard Core",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 18,
+        "fields": {
+            "q_name": "Push-Up or Shut Up",
+            "q_type": 2,
+            "q_level": 4,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 19,
+        "fields": {
+            "q_name": "Too Easy",
+            "q_type": 2,
+            "q_level": 4,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 20,
+        "fields": {
+            "q_name": "BurpeEvo",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 21,
+        "fields": {
+            "q_name": "Core Time",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 22,
+        "fields": {
+            "q_name": "Ab Time",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 23,
+        "fields": {
+            "q_name": "Six Pack",
+            "q_type": 2,
+            "q_level": 4,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 24,
+        "fields": {
+            "q_name": "Harder Core",
+            "q_type": 2,
+            "q_level": 4,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 25,
+        "fields": {
+            "q_name": "Up and Down",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 26,
+        "fields": {
+            "q_name": "Shape Up",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 27,
+        "fields": {
+            "q_name": "Step It Up",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 28,
+        "fields": {
+            "q_name": "Do It Now",
+            "q_type": 2,
+            "q_level": 3,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 29,
+        "fields": {
+            "q_name": "Nothing Special",
+            "q_type": 2,
+            "q_level": 2,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 30,
+        "fields": {
+            "q_name": "Hip-Hop U Dont Stop",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 3,
+            "youtube_id": "Djm-gEMWcnQ",
+            "date_created": "2011-10-02"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 31,
+        "fields": {
+            "q_name": "Bang Bang Boogie",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": "XsTgiagCMEE",
+            "date_created": "2011-10-02"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 32,
+        "fields": {
+            "q_name": "Beach Body",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 33,
+        "fields": {
+            "q_name": "Go Hard",
+            "q_type": 3,
+            "q_level": 3,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 34,
+        "fields": {
+            "q_name": "Hot In Here",
+            "q_type": 3,
+            "q_level": 3,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 35,
+        "fields": {
+            "q_name": "Cant Stop Wont Stop",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 36,
+        "fields": {
+            "q_name": "En Fuego",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 37,
+        "fields": {
+            "q_name": "Evolution",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": "0bDVYbINGAQ",
+            "date_created": "2011-10-02"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 38,
+        "fields": {
+            "q_name": "Leg-endary",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 39,
+        "fields": {
+            "q_name": "Mondays",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 40,
+        "fields": {
+            "q_name": "24/7",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 41,
+        "fields": {
+            "q_name": "Nap Time",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 42,
+        "fields": {
+            "q_name": "I Got This",
+            "q_type": 3,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 43,
+        "fields": {
+            "q_name": "Muffin Tops",
+            "q_type": 3,
+            "q_level": 3,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 44,
+        "fields": {
+            "q_name": "Wake Up",
+            "q_type": 3,
+            "q_level": 3,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 45,
+        "fields": {
+            "q_name": "Jump Start",
+            "q_type": 3,
+            "q_level": 3,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 46,
+        "fields": {
+            "q_name": "Some Day",
+            "q_type": 3,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 47,
+        "fields": {
+            "q_name": "Quick Bar Starzz",
+            "q_type": 4,
+            "q_level": 1,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 48,
+        "fields": {
+            "q_name": "Quick Barz",
+            "q_type": 4,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 49,
+        "fields": {
+            "q_name": "Baby Cobra",
+            "q_type": 4,
+            "q_level": 2,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 50,
+        "fields": {
+            "q_name": "Hang Time",
+            "q_type": 4,
+            "q_level": 3,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 51,
+        "fields": {
+            "q_name": "Bar Core",
+            "q_type": 4,
+            "q_level": 3,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 52,
+        "fields": {
+            "q_name": "Pull-Up or Shut Up",
+            "q_type": 4,
+            "q_level": 4,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 53,
+        "fields": {
+            "q_name": "King Cobra",
+            "q_type": 4,
+            "q_level": 4,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 54,
+        "fields": {
+            "q_name": "Bar Evolution",
+            "q_type": 4,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 55,
+        "fields": {
+            "q_name": "Hanging Around",
+            "q_type": 4,
+            "q_level": 2,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 56,
+        "fields": {
+            "q_name": "Bar Fun",
+            "q_type": 4,
+            "q_level": 4,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 57,
+        "fields": {
+            "q_name": "Power Pack",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 58,
+        "fields": {
+            "q_name": "Turtle Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 59,
+        "fields": {
+            "q_name": "Balance of Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": "v-CBewisVE0",
+            "date_created": "2012-06-03"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 60,
+        "fields": {
+            "q_name": "Power Up",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 61,
+        "fields": {
+            "q_name": "Power Struggle",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 62,
+        "fields": {
+            "q_name": "Rise to Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 63,
+        "fields": {
+            "q_name": "Max Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 64,
+        "fields": {
+            "q_name": "Power Evolution",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 65,
+        "fields": {
+            "q_name": "Core Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 66,
+        "fields": {
+            "q_name": "Power Burst",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 67,
+        "fields": {
+            "q_name": "Powerful",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 68,
+        "fields": {
+            "q_name": "Power Hitter",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 69,
+        "fields": {
+            "q_name": "Absolute Power",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 70,
+        "fields": {
+            "q_name": "Power Play",
+            "q_type": 5,
+            "q_level": 5,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 71,
+        "fields": {
+            "q_name": "NOT Easy",
+            "q_type": 6,
+            "q_level": 6,
+            "q_body_split": 1,
+            "youtube_id": "XLAZx3PZZi0",
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 72,
+        "fields": {
+            "q_name": "Bar Starzz",
+            "q_type": 6,
+            "q_level": 6,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 73,
+        "fields": {
+            "q_name": "Jungle Gym",
+            "q_type": 6,
+            "q_level": 6,
+            "q_body_split": 4,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 74,
+        "fields": {
+            "q_name": "Ultimate Evolution",
+            "q_type": 6,
+            "q_level": 6,
+            "q_body_split": 1,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 75,
+        "fields": {
+            "q_name": "Upper Stretchie #1",
+            "q_type": 7,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 76,
+        "fields": {
+            "q_name": "Upper Stretchie #2",
+            "q_type": 7,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 77,
+        "fields": {
+            "q_name": "Upper Stretchie #3",
+            "q_type": 7,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 78,
+        "fields": {
+            "q_name": "Upper Stretchie #4",
+            "q_type": 7,
+            "q_level": 1,
+            "q_body_split": 2,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 79,
+        "fields": {
+            "q_name": "Lower Stretchie #1",
+            "q_type": 7,
+            "q_level": 2,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickie",
+        "pk": 80,
+        "fields": {
+            "q_name": "Lower Stretchie #2",
+            "q_type": 7,
+            "q_level": 2,
+            "q_body_split": 3,
+            "youtube_id": null,
+            "date_created": "2019-08-13"
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 1,
+        "fields": {
+            "quickie": 1,
+            "exercise": 18,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 2,
+        "fields": {
+            "quickie": 1,
+            "exercise": 59,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 3,
+        "fields": {
+            "quickie": 1,
+            "exercise": 56,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 4,
+        "fields": {
+            "quickie": 1,
+            "exercise": 47,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 5,
+        "fields": {
+            "quickie": 2,
+            "exercise": 17,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 6,
+        "fields": {
+            "quickie": 2,
+            "exercise": 56,
+            "reps": 5,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 7,
+        "fields": {
+            "quickie": 2,
+            "exercise": 51,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 8,
+        "fields": {
+            "quickie": 3,
+            "exercise": 48,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 9,
+        "fields": {
+            "quickie": 3,
+            "exercise": 39,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 10,
+        "fields": {
+            "quickie": 3,
+            "exercise": 18,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 11,
+        "fields": {
+            "quickie": 3,
+            "exercise": 42,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 12,
+        "fields": {
+            "quickie": 4,
+            "exercise": 49,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 13,
+        "fields": {
+            "quickie": 4,
+            "exercise": 67,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 14,
+        "fields": {
+            "quickie": 4,
+            "exercise": 38,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 15,
+        "fields": {
+            "quickie": 4,
+            "exercise": 10,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 16,
+        "fields": {
+            "quickie": 5,
+            "exercise": 48,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 17,
+        "fields": {
+            "quickie": 5,
+            "exercise": 4,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 18,
+        "fields": {
+            "quickie": 5,
+            "exercise": 9,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 19,
+        "fields": {
+            "quickie": 5,
+            "exercise": 38,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 20,
+        "fields": {
+            "quickie": 6,
+            "exercise": 9,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 21,
+        "fields": {
+            "quickie": 6,
+            "exercise": 4,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 22,
+        "fields": {
+            "quickie": 6,
+            "exercise": 49,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 23,
+        "fields": {
+            "quickie": 6,
+            "exercise": 39,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 24,
+        "fields": {
+            "quickie": 7,
+            "exercise": 57,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 25,
+        "fields": {
+            "quickie": 7,
+            "exercise": 53,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 26,
+        "fields": {
+            "quickie": 7,
+            "exercise": 39,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 27,
+        "fields": {
+            "quickie": 7,
+            "exercise": 49,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 28,
+        "fields": {
+            "quickie": 8,
+            "exercise": 4,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 29,
+        "fields": {
+            "quickie": 8,
+            "exercise": 10,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 30,
+        "fields": {
+            "quickie": 8,
+            "exercise": 9,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 31,
+        "fields": {
+            "quickie": 8,
+            "exercise": 65,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 32,
+        "fields": {
+            "quickie": 9,
+            "exercise": 55,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 33,
+        "fields": {
+            "quickie": 9,
+            "exercise": 53,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 34,
+        "fields": {
+            "quickie": 9,
+            "exercise": 49,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 35,
+        "fields": {
+            "quickie": 9,
+            "exercise": 39,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 36,
+        "fields": {
+            "quickie": 10,
+            "exercise": 55,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 37,
+        "fields": {
+            "quickie": 10,
+            "exercise": 4,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 38,
+        "fields": {
+            "quickie": 10,
+            "exercise": 16,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 39,
+        "fields": {
+            "quickie": 10,
+            "exercise": 53,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 40,
+        "fields": {
+            "quickie": 11,
+            "exercise": 42,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 41,
+        "fields": {
+            "quickie": 11,
+            "exercise": 38,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 42,
+        "fields": {
+            "quickie": 11,
+            "exercise": 49,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 43,
+        "fields": {
+            "quickie": 11,
+            "exercise": 53,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 44,
+        "fields": {
+            "quickie": 12,
+            "exercise": 56,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 45,
+        "fields": {
+            "quickie": 12,
+            "exercise": 39,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 46,
+        "fields": {
+            "quickie": 12,
+            "exercise": 4,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 47,
+        "fields": {
+            "quickie": 12,
+            "exercise": 42,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 48,
+        "fields": {
+            "quickie": 13,
+            "exercise": 48,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 49,
+        "fields": {
+            "quickie": 13,
+            "exercise": 45,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 50,
+        "fields": {
+            "quickie": 13,
+            "exercise": 24,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 51,
+        "fields": {
+            "quickie": 13,
+            "exercise": 8,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 52,
+        "fields": {
+            "quickie": 14,
+            "exercise": 58,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 53,
+        "fields": {
+            "quickie": 14,
+            "exercise": 17,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 54,
+        "fields": {
+            "quickie": 14,
+            "exercise": 16,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 55,
+        "fields": {
+            "quickie": 15,
+            "exercise": 65,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 56,
+        "fields": {
+            "quickie": 15,
+            "exercise": 48,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 57,
+        "fields": {
+            "quickie": 15,
+            "exercise": 4,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 58,
+        "fields": {
+            "quickie": 15,
+            "exercise": 9,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 59,
+        "fields": {
+            "quickie": 16,
+            "exercise": 64,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 60,
+        "fields": {
+            "quickie": 16,
+            "exercise": 1,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 61,
+        "fields": {
+            "quickie": 16,
+            "exercise": 24,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 62,
+        "fields": {
+            "quickie": 16,
+            "exercise": 58,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 63,
+        "fields": {
+            "quickie": 17,
+            "exercise": 63,
+            "reps": 25,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 64,
+        "fields": {
+            "quickie": 17,
+            "exercise": 47,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 65,
+        "fields": {
+            "quickie": 17,
+            "exercise": 3,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 66,
+        "fields": {
+            "quickie": 17,
+            "exercise": 24,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 67,
+        "fields": {
+            "quickie": 18,
+            "exercise": 64,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 68,
+        "fields": {
+            "quickie": 18,
+            "exercise": 19,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 69,
+        "fields": {
+            "quickie": 18,
+            "exercise": 55,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 70,
+        "fields": {
+            "quickie": 18,
+            "exercise": 14,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 71,
+        "fields": {
+            "quickie": 19,
+            "exercise": 54,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 72,
+        "fields": {
+            "quickie": 19,
+            "exercise": 1,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 73,
+        "fields": {
+            "quickie": 19,
+            "exercise": 57,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 74,
+        "fields": {
+            "quickie": 19,
+            "exercise": 19,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 75,
+        "fields": {
+            "quickie": 20,
+            "exercise": 4,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 76,
+        "fields": {
+            "quickie": 20,
+            "exercise": 55,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 77,
+        "fields": {
+            "quickie": 20,
+            "exercise": 65,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 78,
+        "fields": {
+            "quickie": 20,
+            "exercise": 8,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 79,
+        "fields": {
+            "quickie": 21,
+            "exercise": 67,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 80,
+        "fields": {
+            "quickie": 21,
+            "exercise": 16,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 81,
+        "fields": {
+            "quickie": 21,
+            "exercise": 51,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 82,
+        "fields": {
+            "quickie": 21,
+            "exercise": 47,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 83,
+        "fields": {
+            "quickie": 22,
+            "exercise": 24,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 84,
+        "fields": {
+            "quickie": 22,
+            "exercise": 3,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 85,
+        "fields": {
+            "quickie": 22,
+            "exercise": 47,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 86,
+        "fields": {
+            "quickie": 23,
+            "exercise": 3,
+            "reps": 40,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 87,
+        "fields": {
+            "quickie": 23,
+            "exercise": 67,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 88,
+        "fields": {
+            "quickie": 23,
+            "exercise": 24,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 89,
+        "fields": {
+            "quickie": 24,
+            "exercise": 11,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 90,
+        "fields": {
+            "quickie": 24,
+            "exercise": 16,
+            "reps": 40,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 91,
+        "fields": {
+            "quickie": 24,
+            "exercise": 24,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 92,
+        "fields": {
+            "quickie": 25,
+            "exercise": 10,
+            "reps": 40,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 93,
+        "fields": {
+            "quickie": 25,
+            "exercise": 4,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 94,
+        "fields": {
+            "quickie": 25,
+            "exercise": 9,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 95,
+        "fields": {
+            "quickie": 25,
+            "exercise": 65,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 96,
+        "fields": {
+            "quickie": 26,
+            "exercise": 55,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 97,
+        "fields": {
+            "quickie": 26,
+            "exercise": 57,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 98,
+        "fields": {
+            "quickie": 26,
+            "exercise": 53,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 99,
+        "fields": {
+            "quickie": 26,
+            "exercise": 19,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 100,
+        "fields": {
+            "quickie": 27,
+            "exercise": 8,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 101,
+        "fields": {
+            "quickie": 27,
+            "exercise": 19,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 102,
+        "fields": {
+            "quickie": 27,
+            "exercise": 49,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 103,
+        "fields": {
+            "quickie": 27,
+            "exercise": 1,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 104,
+        "fields": {
+            "quickie": 28,
+            "exercise": 64,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 105,
+        "fields": {
+            "quickie": 28,
+            "exercise": 40,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 106,
+        "fields": {
+            "quickie": 28,
+            "exercise": 20,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 107,
+        "fields": {
+            "quickie": 28,
+            "exercise": 55,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 108,
+        "fields": {
+            "quickie": 29,
+            "exercise": 41,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 109,
+        "fields": {
+            "quickie": 29,
+            "exercise": 55,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 110,
+        "fields": {
+            "quickie": 29,
+            "exercise": 49,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 111,
+        "fields": {
+            "quickie": 29,
+            "exercise": 39,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 112,
+        "fields": {
+            "quickie": 30,
+            "exercise": 37,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 113,
+        "fields": {
+            "quickie": 30,
+            "exercise": 21,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 114,
+        "fields": {
+            "quickie": 30,
+            "exercise": 60,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 115,
+        "fields": {
+            "quickie": 30,
+            "exercise": 22,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 116,
+        "fields": {
+            "quickie": 31,
+            "exercise": 37,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 117,
+        "fields": {
+            "quickie": 31,
+            "exercise": 45,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 118,
+        "fields": {
+            "quickie": 31,
+            "exercise": 49,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 119,
+        "fields": {
+            "quickie": 31,
+            "exercise": 8,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 120,
+        "fields": {
+            "quickie": 32,
+            "exercise": 49,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 121,
+        "fields": {
+            "quickie": 32,
+            "exercise": 16,
+            "reps": 40,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 122,
+        "fields": {
+            "quickie": 32,
+            "exercise": 3,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 123,
+        "fields": {
+            "quickie": 32,
+            "exercise": 8,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 124,
+        "fields": {
+            "quickie": 33,
+            "exercise": 38,
+            "reps": 50,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 125,
+        "fields": {
+            "quickie": 33,
+            "exercise": 64,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 126,
+        "fields": {
+            "quickie": 33,
+            "exercise": 3,
+            "reps": 50,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 127,
+        "fields": {
+            "quickie": 33,
+            "exercise": 43,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 128,
+        "fields": {
+            "quickie": 34,
+            "exercise": 37,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 129,
+        "fields": {
+            "quickie": 34,
+            "exercise": 45,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 130,
+        "fields": {
+            "quickie": 34,
+            "exercise": 65,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 131,
+        "fields": {
+            "quickie": 34,
+            "exercise": 43,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 132,
+        "fields": {
+            "quickie": 35,
+            "exercise": 9,
+            "reps": 50,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 133,
+        "fields": {
+            "quickie": 35,
+            "exercise": 65,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 134,
+        "fields": {
+            "quickie": 35,
+            "exercise": 38,
+            "reps": 50,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 135,
+        "fields": {
+            "quickie": 35,
+            "exercise": 8,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 136,
+        "fields": {
+            "quickie": 36,
+            "exercise": 64,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 137,
+        "fields": {
+            "quickie": 36,
+            "exercise": 49,
+            "reps": 40,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 138,
+        "fields": {
+            "quickie": 36,
+            "exercise": 8,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 139,
+        "fields": {
+            "quickie": 36,
+            "exercise": 38,
+            "reps": 40,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 140,
+        "fields": {
+            "quickie": 37,
+            "exercise": 65,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 141,
+        "fields": {
+            "quickie": 37,
+            "exercise": 54,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 142,
+        "fields": {
+            "quickie": 37,
+            "exercise": 8,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 143,
+        "fields": {
+            "quickie": 37,
+            "exercise": 6,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 144,
+        "fields": {
+            "quickie": 38,
+            "exercise": 66,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 145,
+        "fields": {
+            "quickie": 38,
+            "exercise": 43,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 146,
+        "fields": {
+            "quickie": 38,
+            "exercise": 37,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 147,
+        "fields": {
+            "quickie": 38,
+            "exercise": 38,
+            "reps": 40,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 148,
+        "fields": {
+            "quickie": 39,
+            "exercise": 38,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 149,
+        "fields": {
+            "quickie": 39,
+            "exercise": 37,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 150,
+        "fields": {
+            "quickie": 39,
+            "exercise": 49,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 151,
+        "fields": {
+            "quickie": 39,
+            "exercise": 67,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 152,
+        "fields": {
+            "quickie": 40,
+            "exercise": 55,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 153,
+        "fields": {
+            "quickie": 40,
+            "exercise": 67,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 154,
+        "fields": {
+            "quickie": 40,
+            "exercise": 65,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 155,
+        "fields": {
+            "quickie": 40,
+            "exercise": 42,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 156,
+        "fields": {
+            "quickie": 41,
+            "exercise": 51,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 157,
+        "fields": {
+            "quickie": 41,
+            "exercise": 3,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 158,
+        "fields": {
+            "quickie": 41,
+            "exercise": 53,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 159,
+        "fields": {
+            "quickie": 41,
+            "exercise": 42,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 160,
+        "fields": {
+            "quickie": 42,
+            "exercise": 55,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 161,
+        "fields": {
+            "quickie": 42,
+            "exercise": 16,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 162,
+        "fields": {
+            "quickie": 42,
+            "exercise": 4,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 163,
+        "fields": {
+            "quickie": 42,
+            "exercise": 38,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 164,
+        "fields": {
+            "quickie": 43,
+            "exercise": 45,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 165,
+        "fields": {
+            "quickie": 43,
+            "exercise": 64,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 166,
+        "fields": {
+            "quickie": 43,
+            "exercise": 3,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 167,
+        "fields": {
+            "quickie": 43,
+            "exercise": 68,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 168,
+        "fields": {
+            "quickie": 44,
+            "exercise": 38,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 169,
+        "fields": {
+            "quickie": 44,
+            "exercise": 49,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 170,
+        "fields": {
+            "quickie": 44,
+            "exercise": 66,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 171,
+        "fields": {
+            "quickie": 44,
+            "exercise": 8,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 172,
+        "fields": {
+            "quickie": 45,
+            "exercise": 42,
+            "reps": 40,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 173,
+        "fields": {
+            "quickie": 45,
+            "exercise": 9,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 174,
+        "fields": {
+            "quickie": 45,
+            "exercise": 65,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 175,
+        "fields": {
+            "quickie": 45,
+            "exercise": 43,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 176,
+        "fields": {
+            "quickie": 46,
+            "exercise": 54,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 177,
+        "fields": {
+            "quickie": 46,
+            "exercise": 8,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 178,
+        "fields": {
+            "quickie": 46,
+            "exercise": 14,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 179,
+        "fields": {
+            "quickie": 46,
+            "exercise": 7,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 180,
+        "fields": {
+            "quickie": 47,
+            "exercise": 41,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 181,
+        "fields": {
+            "quickie": 47,
+            "exercise": 29,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 182,
+        "fields": {
+            "quickie": 47,
+            "exercise": 44,
+            "reps": 5,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 183,
+        "fields": {
+            "quickie": 47,
+            "exercise": 32,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 184,
+        "fields": {
+            "quickie": 48,
+            "exercise": 20,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 185,
+        "fields": {
+            "quickie": 48,
+            "exercise": 40,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 186,
+        "fields": {
+            "quickie": 48,
+            "exercise": 39,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 187,
+        "fields": {
+            "quickie": 48,
+            "exercise": 29,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 188,
+        "fields": {
+            "quickie": 49,
+            "exercise": 41,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 189,
+        "fields": {
+            "quickie": 49,
+            "exercise": 44,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 190,
+        "fields": {
+            "quickie": 49,
+            "exercise": 12,
+            "reps": 5,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 191,
+        "fields": {
+            "quickie": 49,
+            "exercise": 40,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 192,
+        "fields": {
+            "quickie": 50,
+            "exercise": 35,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 193,
+        "fields": {
+            "quickie": 50,
+            "exercise": 27,
+            "reps": 15,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 194,
+        "fields": {
+            "quickie": 50,
+            "exercise": 33,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 195,
+        "fields": {
+            "quickie": 50,
+            "exercise": 30,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 196,
+        "fields": {
+            "quickie": 51,
+            "exercise": 28,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 197,
+        "fields": {
+            "quickie": 51,
+            "exercise": 30,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 198,
+        "fields": {
+            "quickie": 51,
+            "exercise": 35,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 199,
+        "fields": {
+            "quickie": 51,
+            "exercise": 31,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 200,
+        "fields": {
+            "quickie": 52,
+            "exercise": 54,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 201,
+        "fields": {
+            "quickie": 52,
+            "exercise": 61,
+            "reps": 5,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 202,
+        "fields": {
+            "quickie": 52,
+            "exercise": 2,
+            "reps": 5,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 203,
+        "fields": {
+            "quickie": 52,
+            "exercise": 15,
+            "reps": 5,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 204,
+        "fields": {
+            "quickie": 53,
+            "exercise": 13,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 205,
+        "fields": {
+            "quickie": 53,
+            "exercise": 54,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 206,
+        "fields": {
+            "quickie": 53,
+            "exercise": 12,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 207,
+        "fields": {
+            "quickie": 53,
+            "exercise": 40,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 208,
+        "fields": {
+            "quickie": 54,
+            "exercise": 29,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 209,
+        "fields": {
+            "quickie": 54,
+            "exercise": 30,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 210,
+        "fields": {
+            "quickie": 54,
+            "exercise": 54,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 211,
+        "fields": {
+            "quickie": 54,
+            "exercise": 46,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 212,
+        "fields": {
+            "quickie": 55,
+            "exercise": 54,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 213,
+        "fields": {
+            "quickie": 55,
+            "exercise": 40,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 214,
+        "fields": {
+            "quickie": 55,
+            "exercise": 35,
+            "reps": 15,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 215,
+        "fields": {
+            "quickie": 55,
+            "exercise": 29,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 216,
+        "fields": {
+            "quickie": 56,
+            "exercise": 20,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 217,
+        "fields": {
+            "quickie": 56,
+            "exercise": 27,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 218,
+        "fields": {
+            "quickie": 56,
+            "exercise": 54,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 219,
+        "fields": {
+            "quickie": 56,
+            "exercise": 33,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 220,
+        "fields": {
+            "quickie": 57,
+            "exercise": 68,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 221,
+        "fields": {
+            "quickie": 57,
+            "exercise": 11,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 222,
+        "fields": {
+            "quickie": 57,
+            "exercise": 24,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 223,
+        "fields": {
+            "quickie": 57,
+            "exercise": 58,
+            "reps": 50,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 224,
+        "fields": {
+            "quickie": 58,
+            "exercise": 64,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 225,
+        "fields": {
+            "quickie": 58,
+            "exercise": 8,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 226,
+        "fields": {
+            "quickie": 58,
+            "exercise": 65,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 227,
+        "fields": {
+            "quickie": 58,
+            "exercise": 68,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 228,
+        "fields": {
+            "quickie": 59,
+            "exercise": 6,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 229,
+        "fields": {
+            "quickie": 59,
+            "exercise": 43,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 230,
+        "fields": {
+            "quickie": 59,
+            "exercise": 1,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 231,
+        "fields": {
+            "quickie": 59,
+            "exercise": 24,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 232,
+        "fields": {
+            "quickie": 60,
+            "exercise": 14,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 233,
+        "fields": {
+            "quickie": 60,
+            "exercise": 64,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 234,
+        "fields": {
+            "quickie": 60,
+            "exercise": 1,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 235,
+        "fields": {
+            "quickie": 60,
+            "exercise": 20,
+            "reps": 20,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 236,
+        "fields": {
+            "quickie": 61,
+            "exercise": 54,
+            "reps": 25,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 237,
+        "fields": {
+            "quickie": 61,
+            "exercise": 30,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 238,
+        "fields": {
+            "quickie": 61,
+            "exercise": 8,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 239,
+        "fields": {
+            "quickie": 61,
+            "exercise": 1,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 240,
+        "fields": {
+            "quickie": 62,
+            "exercise": 38,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 241,
+        "fields": {
+            "quickie": 62,
+            "exercise": 14,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 242,
+        "fields": {
+            "quickie": 62,
+            "exercise": 65,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 243,
+        "fields": {
+            "quickie": 62,
+            "exercise": 8,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 244,
+        "fields": {
+            "quickie": 63,
+            "exercise": 54,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 245,
+        "fields": {
+            "quickie": 63,
+            "exercise": 65,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 246,
+        "fields": {
+            "quickie": 63,
+            "exercise": 64,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 247,
+        "fields": {
+            "quickie": 63,
+            "exercise": 8,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 248,
+        "fields": {
+            "quickie": 64,
+            "exercise": 4,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 249,
+        "fields": {
+            "quickie": 64,
+            "exercise": 8,
+            "reps": 30,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 250,
+        "fields": {
+            "quickie": 64,
+            "exercise": 66,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 251,
+        "fields": {
+            "quickie": 64,
+            "exercise": 7,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 252,
+        "fields": {
+            "quickie": 65,
+            "exercise": 11,
+            "reps": 40,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 253,
+        "fields": {
+            "quickie": 65,
+            "exercise": 16,
+            "reps": 50,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 254,
+        "fields": {
+            "quickie": 65,
+            "exercise": 58,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 255,
+        "fields": {
+            "quickie": 65,
+            "exercise": 3,
+            "reps": 50,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 256,
+        "fields": {
+            "quickie": 66,
+            "exercise": 65,
+            "reps": 30,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 257,
+        "fields": {
+            "quickie": 66,
+            "exercise": 9,
+            "reps": 50,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 258,
+        "fields": {
+            "quickie": 66,
+            "exercise": 66,
+            "reps": 30,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 259,
+        "fields": {
+            "quickie": 66,
+            "exercise": 38,
+            "reps": 50,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 260,
+        "fields": {
+            "quickie": 67,
+            "exercise": 43,
+            "reps": 25,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 261,
+        "fields": {
+            "quickie": 67,
+            "exercise": 37,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 262,
+        "fields": {
+            "quickie": 67,
+            "exercise": 65,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 263,
+        "fields": {
+            "quickie": 67,
+            "exercise": 7,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 264,
+        "fields": {
+            "quickie": 68,
+            "exercise": 13,
+            "reps": 15,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 265,
+        "fields": {
+            "quickie": 68,
+            "exercise": 14,
+            "reps": 20,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 266,
+        "fields": {
+            "quickie": 68,
+            "exercise": 20,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 267,
+        "fields": {
+            "quickie": 68,
+            "exercise": 8,
+            "reps": 30,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 268,
+        "fields": {
+            "quickie": 69,
+            "exercise": 13,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 269,
+        "fields": {
+            "quickie": 69,
+            "exercise": 24,
+            "reps": 40,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 270,
+        "fields": {
+            "quickie": 69,
+            "exercise": 8,
+            "reps": 20,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 271,
+        "fields": {
+            "quickie": 69,
+            "exercise": 66,
+            "reps": 40,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 272,
+        "fields": {
+            "quickie": 70,
+            "exercise": 37,
+            "reps": 25,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 273,
+        "fields": {
+            "quickie": 70,
+            "exercise": 8,
+            "reps": 25,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 274,
+        "fields": {
+            "quickie": 70,
+            "exercise": 64,
+            "reps": 25,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 275,
+        "fields": {
+            "quickie": 70,
+            "exercise": 66,
+            "reps": 25,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 276,
+        "fields": {
+            "quickie": 71,
+            "exercise": 26,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 277,
+        "fields": {
+            "quickie": 71,
+            "exercise": 6,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 278,
+        "fields": {
+            "quickie": 71,
+            "exercise": 52,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 279,
+        "fields": {
+            "quickie": 72,
+            "exercise": 46,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 280,
+        "fields": {
+            "quickie": 72,
+            "exercise": 23,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 281,
+        "fields": {
+            "quickie": 72,
+            "exercise": 50,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 282,
+        "fields": {
+            "quickie": 72,
+            "exercise": 13,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 283,
+        "fields": {
+            "quickie": 73,
+            "exercise": 34,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 284,
+        "fields": {
+            "quickie": 73,
+            "exercise": 36,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 285,
+        "fields": {
+            "quickie": 73,
+            "exercise": 31,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 286,
+        "fields": {
+            "quickie": 73,
+            "exercise": 23,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 287,
+        "fields": {
+            "quickie": 74,
+            "exercise": 8,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 288,
+        "fields": {
+            "quickie": 74,
+            "exercise": 6,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 289,
+        "fields": {
+            "quickie": 74,
+            "exercise": 50,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 290,
+        "fields": {
+            "quickie": 74,
+            "exercise": 5,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 291,
+        "fields": {
+            "quickie": 2,
+            "exercise": 25,
+            "reps": 5,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 292,
+        "fields": {
+            "quickie": 14,
+            "exercise": 25,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 293,
+        "fields": {
+            "quickie": 22,
+            "exercise": 25,
+            "reps": 15,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 294,
+        "fields": {
+            "quickie": 23,
+            "exercise": 25,
+            "reps": 20,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 295,
+        "fields": {
+            "quickie": 24,
+            "exercise": 25,
+            "reps": 40,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 296,
+        "fields": {
+            "quickie": 71,
+            "exercise": 62,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 297,
+        "fields": {
+            "quickie": 75,
+            "exercise": 69,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 298,
+        "fields": {
+            "quickie": 75,
+            "exercise": 70,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 299,
+        "fields": {
+            "quickie": 75,
+            "exercise": 71,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 300,
+        "fields": {
+            "quickie": 75,
+            "exercise": 72,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 301,
+        "fields": {
+            "quickie": 76,
+            "exercise": 73,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 302,
+        "fields": {
+            "quickie": 76,
+            "exercise": 74,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 303,
+        "fields": {
+            "quickie": 76,
+            "exercise": 75,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 304,
+        "fields": {
+            "quickie": 76,
+            "exercise": 76,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 305,
+        "fields": {
+            "quickie": 77,
+            "exercise": 77,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 306,
+        "fields": {
+            "quickie": 77,
+            "exercise": 78,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 307,
+        "fields": {
+            "quickie": 77,
+            "exercise": 79,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 308,
+        "fields": {
+            "quickie": 77,
+            "exercise": 80,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 309,
+        "fields": {
+            "quickie": 78,
+            "exercise": 81,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 310,
+        "fields": {
+            "quickie": 78,
+            "exercise": 82,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 311,
+        "fields": {
+            "quickie": 78,
+            "exercise": 83,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 312,
+        "fields": {
+            "quickie": 78,
+            "exercise": 84,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 313,
+        "fields": {
+            "quickie": 79,
+            "exercise": 85,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 314,
+        "fields": {
+            "quickie": 79,
+            "exercise": 86,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 315,
+        "fields": {
+            "quickie": 79,
+            "exercise": 87,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 316,
+        "fields": {
+            "quickie": 79,
+            "exercise": 88,
+            "reps": 10,
+            "order": 4
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 317,
+        "fields": {
+            "quickie": 80,
+            "exercise": 89,
+            "reps": 10,
+            "order": 1
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 318,
+        "fields": {
+            "quickie": 80,
+            "exercise": 90,
+            "reps": 10,
+            "order": 2
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 319,
+        "fields": {
+            "quickie": 80,
+            "exercise": 91,
+            "reps": 10,
+            "order": 3
+        }
+    },
+    {
+        "model": "quickies.quickieexercise",
+        "pk": 320,
+        "fields": {
+            "quickie": 80,
+            "exercise": 92,
+            "reps": 10,
+            "order": 4
+        }
+    }
+]
