@@ -11,19 +11,21 @@ https://docs.djangoproject.com/en/5.2/ref/settings/
 """
 import os  # ensure this is at the top if not already
 from pathlib import Path
+from dotenv import load_dotenv
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / '.env')
 
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-hd(d-q!v6ay)anfep6&x+vh^4y*g+b1%76ci=x+)9yo6@z#^eg'
+SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'unsafe-default-for-local-dev')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.environ.get('DJANGO_DEBUG', '') == 'True'
 
 ALLOWED_HOSTS = [
     'localhost',
@@ -127,6 +129,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 STATICFILES_DIRS = [
-    BASE_DIR / "workouts/quickies/static",
+    os.path.join(BASE_DIR, 'quickies', 'static'),
 ]
 

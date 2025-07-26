@@ -1,1 +1,1 @@
-web: gunicorn workouts.wsgi
+web: gunicorn workouts.wsgi --chdir workouts
