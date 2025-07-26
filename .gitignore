@@ -11,7 +11,7 @@ env/
 # Django
 db.sqlite3
 /staticfiles/
-/workouts/staticfiles/
+workouts/staticfiles/
 /media/
 
 # VSCode or PyCharm
