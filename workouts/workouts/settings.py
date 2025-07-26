@@ -30,7 +30,8 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') == 'True'
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
-    'calochoa-workouts.herokuapp.com',  # replace with your actual Heroku app domain
+    'https://calochoa-workouts.herokuapp.com/'
+    'https://calochoa-workouts-d1bab16ead6f.herokuapp.com/',
 ]
 
 # Application definition
