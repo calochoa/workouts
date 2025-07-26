@@ -1,0 +1,40 @@
+{% extends "quickies/base.html" %}
+{% load static %}
+{% block title %}Quickies Home{% endblock %}
+{% block header_title %}🏋️ Welcome to Quickies{% endblock %}
+
+{% block content %}
+<div style="text-align:center;">
+  <p class="intro" style="max-width: 600px; margin: 0 auto 2rem; font-size: 1.1rem;">
+    Quickies are high-intensity, short-duration workouts you can do almost anywhere. 
+    Use them as warm-ups — or stack several for a complete, efficient workout.
+  </p>
+  <div class="card">
+    <div class="card-header">
+      <h2>🎯 Quickie of the Day</h2>
+      <h3>{{ quickie.q_name }}</h3>
+      <p><em>{{ quickie.q_level.l_name }} | {{ quickie.q_body_split.bs_name }} | {{ quickie.q_type.qt_name }}</em></p>
+    </div>
+    <div class="card-body">
+      <h4>Exercises</h4>
+      <ul class="exercise-list">
+        {% for qe in quickie.quickie_exercises.all %}
+          <li>{{ qe.reps }} {{ qe.exercise.e_name }}</li>
+        {% empty %}
+          <li><em>No exercises assigned.</em></li>
+        {% endfor %}
+      </ul>
+      {% if quickie.youtube_id %}
+        <div class="video-link">
+          <a href="{{ quickie.youtube_url }}" target="_blank" rel="noopener noreferrer">
+            ▶️ Watch on YouTube
+          </a>
+        </div>
+      {% endif %}
+    </div>
+    <div class="card-footer">
+      <p><small><em>Added {{ quickie.date_created|date:"M Y" }}</em></small></p>
+    </div>
+  </div>
+</div>
+{% endblock %}

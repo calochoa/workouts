@@ -1,0 +1,67 @@
+{% extends "quickies/base.html" %}
+{% load static %}
+{% block title %}🎲 Quickies Roulette{% endblock %}
+{% block header_title %}🎲 Quickies Roulette{% endblock %}
+
+{% block content %}
+<form method="get" class="form" style="text-align:center; margin-bottom: 2rem;">
+    <label for="level" class="filter">Level:</label>
+    <select name="level" id="level">
+        <option value="">All</option>
+        {% for l in levels %}
+            <option value="{{ l.l_name }}" {% if l.l_name == selected_level %}selected{% endif %}>{{ l.l_name }}</option>
+        {% endfor %}
+    </select>
+
+    <label for="body_split" class="filter">Body Split:</label>
+    <select name="body_split" id="body_split">
+        <option value="">All</option>
+        {% for b in body_splits %}
+            <option value="{{ b.bs_name }}" {% if b.bs_name == selected_body_split %}selected{% endif %}>{{ b.bs_name }}</option>
+        {% endfor %}
+    </select>
+
+    <label for="type" class="filter">Type:</label>
+    <select name="type" id="type">
+        <option value="">All</option>
+        {% for t in types %}
+            <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>{{ t.qt_name }}</option>
+        {% endfor %}
+    </select>
+
+    <button type="submit">Spin the Wheel</button>
+</form>
+
+<hr/>
+
+{% if selected_quickie %}
+<div class="card">
+    <div class="card-header">
+      <h2>{{ selected_quickie.q_name }}</h2>
+      <p><em>{{ selected_quickie.q_level.l_name }} | {{ selected_quickie.q_body_split.bs_name }} | {{ selected_quickie.q_type.qt_name }}</em></p>
+    </div>
+    <div class="card-body">
+      <h4>Exercises</h4>
+      <ul class="exercise-list">
+        {% for qe in selected_quickie.quickie_exercises.all %}
+          <li>{{ qe.reps }} {{ qe.exercise.e_name }}</li>
+        {% empty %}
+          <li><em>No exercises assigned.</em></li>
+        {% endfor %}
+      </ul>
+      {% if selected_quickie.youtube_id %}
+        <div class="video-link">
+          <a href="{{ selected_quickie.youtube_url }}" target="_blank" rel="noopener noreferrer">
+            ▶️ Watch on YouTube
+          </a>
+        </div>
+      {% endif %}
+    </div>
+    <div class="card-footer">
+      <p><small><em>Added {{ selected_quickie.date_created|date:"M Y" }}</em></small></p>
+    </div>
+</div>
+{% else %}
+    <p style="text-align:center;"><em>No quickie found with the current filters.</em></p>
+{% endif %}
+{% endblock %}

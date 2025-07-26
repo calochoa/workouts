@@ -1,0 +1,71 @@
+{% extends "quickies/base.html" %}
+{% load static %}
+{% block title %}📚 Quickies Library{% endblock %}
+{% block header_title %}📚 Quickies Library{% endblock %}
+{% block content %}
+
+<form method="get">
+  <label for="level" class="filter">Level:</label>
+  <select name="level" id="level">
+    <option value="">All</option>
+    {% for l in levels %}
+      <option value="{{ l.l_name }}" {% if l.l_name == selected_level %}selected{% endif %}>
+        {{ l.l_name }}
+      </option>
+    {% endfor %}
+  </select>
+
+  <label for="body_split" class="filter">Body Split:</label>
+  <select name="body_split" id="body_split">
+    <option value="">All</option>
+    {% for b in body_splits %}
+      <option value="{{ b.bs_name }}" {% if b.bs_name == selected_body_split %}selected{% endif %}>
+        {{ b.bs_name }}
+      </option>
+    {% endfor %}
+  </select>
+
+  <label for="type" class="filter">Type:</label>
+  <select name="type" id="type">
+    <option value="">All</option>
+    {% for t in types %}
+      <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>
+        {{ t.qt_name }}
+      </option>
+    {% endfor %}
+  </select>
+
+  <button type="submit">Filter</button>
+  <a href="{% url 'quickies_library' %}">Clear filters</a>
+</form>
+
+<p class="results"><strong>{{ total_results }}</strong> quickies found.</p>
+
+<div class="quickie-grid">
+  {% for quickie in quickies %}
+    <div class="quickie-card">
+      <h2>{{ quickie.q_name }}</h2>
+      <div class="quickie-meta-top">
+        {{ quickie.q_level.l_name }} | {{ quickie.q_body_split.bs_name }} | {{ quickie.q_type.qt_name }}
+      </div>
+      <h4>Exercises</h4>
+      <div class="exercises-list">
+        {% for qe in quickie.quickie_exercises.all %}
+          {{ qe.reps }} {{ qe.exercise.e_name }}<br/>
+        {% empty %}
+          <em>No exercises assigned.</em>
+        {% endfor %}
+      </div>
+      {% if quickie.youtube_id %}
+        <a href="{{ quickie.youtube_url }}" target="_blank" rel="noopener noreferrer">▶️ Watch on YouTube</a>
+      {% endif %}
+      <div class="quickie-meta-bottom">
+        <em>Added on {{ quickie.date_created|date:"M Y" }}</em>
+      </div>
+    </div>
+    {% empty %}
+    <p style="text-align:center;"><em>No quickies found.</em></p>
+  {% endfor %}
+</div>
+
+{% endblock %}
