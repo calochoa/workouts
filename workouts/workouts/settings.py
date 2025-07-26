@@ -79,20 +79,19 @@ WSGI_APPLICATION = 'workouts.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
-'''
-DATABASES = {
-    'default': dj_database_url.config(
-        default=f'sqlite:///{BASE_DIR / "db.sqlite3"}'
-    )
-}
+# Default SQLite config (safe fallback for local dev)
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-'''
-DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
+
+# Override with Postgres (e.g., for Heroku) if DATABASE_URL is set
+DATABASES['default'] = dj_database_url.config(
+    conn_max_age=600,
+    ssl_require=True
+)
 
 
 # Password validation
