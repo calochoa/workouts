@@ -1,38 +1,9 @@
-{% extends "quickies/base.html" %}
+{% extends "quickies/partials/base.html" %}
 {% load static %}
 {% block title %}🎲 Quickies Roulette{% endblock %}
 {% block header_title %}🎲 Quickies Roulette{% endblock %}
-
 {% block content %}
-<form method="get" class="form" style="text-align:center; margin-bottom: 2rem;">
-    <label for="level" class="filter">Level:</label>
-    <select name="level" id="level">
-        <option value="">All</option>
-        {% for l in levels %}
-            <option value="{{ l.l_name }}" {% if l.l_name == selected_level %}selected{% endif %}>{{ l.l_name }}</option>
-        {% endfor %}
-    </select>
-
-    <label for="body_split" class="filter">Body Split:</label>
-    <select name="body_split" id="body_split">
-        <option value="">All</option>
-        {% for b in body_splits %}
-            <option value="{{ b.bs_name }}" {% if b.bs_name == selected_body_split %}selected{% endif %}>{{ b.bs_name }}</option>
-        {% endfor %}
-    </select>
-
-    <label for="type" class="filter">Type:</label>
-    <select name="type" id="type">
-        <option value="">All</option>
-        {% for t in types %}
-            <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>{{ t.qt_name }}</option>
-        {% endfor %}
-    </select>
-
-    <button type="submit">Spin the Wheel</button>
-</form>
-
-<hr/>
+{% include "quickies/partials/filter_form.html" with submit_label="Spin the Wheel" clear_url="quickies_roulette" %}
 
 {% if selected_quickie %}
 <div class="card">

@@ -1,0 +1,36 @@
+<div class="form-container">
+  <form method="get">
+    <div class="form-row">
+      <label for="level">Level:</label>
+      <select name="level" id="level">
+        <option value="">All</option>
+        {% for l in levels %}
+          <option value="{{ l.l_name }}" {% if l.l_name == selected_level %}selected{% endif %}>{{ l.l_name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="form-row">
+      <label for="body_split">Body Split:</label>
+      <select name="body_split" id="body_split">
+        <option value="">All</option>
+        {% for b in body_splits %}
+          <option value="{{ b.bs_name }}" {% if b.bs_name == selected_body_split %}selected{% endif %}>{{ b.bs_name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="form-row">
+      <label for="type">Type:</label>
+      <select name="type" id="type">
+        <option value="">All</option>
+        {% for t in types %}
+          <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>{{ t.qt_name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="form-actions">
+      <button type="submit">{{ submit_label }}</button>
+      <a href="{% url clear_url %}">Clear filters</a>
+    </div>
+  </form>
+</div>
+<hr/>
