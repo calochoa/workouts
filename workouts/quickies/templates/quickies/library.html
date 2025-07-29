@@ -1,9 +1,9 @@
 {% extends "quickies/partials/base.html" %}
 {% load static %}
-{% block title %}📚 Quickies Library{% endblock %}
-{% block header_title %}📚 Quickies Library{% endblock %}
+{% block title %}Quickies Library{% endblock %}
+{% block header_title %}Quickies Library{% endblock %}
 {% block content %}
-{% include "quickies/partials/filter_form.html" with submit_label="Filter" clear_url="quickies_library" %}
+{% include "quickies/partials/filter_form.html" with submit_label="Filter" clear_url="quickies_library" show_type=True %}
 
 <p class="results"><strong>{{ total_results }}</strong> quickies found.</p>
 
@@ -17,13 +17,29 @@
       <h4>Exercises</h4>
       <div class="exercises-list">
         {% for qe in quickie.quickie_exercises.all %}
-          {{ qe.reps }} {{ qe.exercise.e_name }}<br/>
+          {{ qe.reps }}
+
+
+          {% if qe.exercise.e_youtube_id %}
+            <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
+              {{ qe.exercise.e_name }}
+            </a>
+          {% else %}
+            {{ qe.exercise.e_name }}
+          {% endif %}
+
+
+          <!--a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
+            {{ qe.exercise.e_name }}
+          </a--><br/>
         {% empty %}
           <em>No exercises assigned.</em>
         {% endfor %}
       </div>
       {% if quickie.youtube_id %}
-        <a href="{{ quickie.youtube_url }}" target="_blank" rel="noopener noreferrer">▶️ Watch on YouTube</a>
+        <div class="video-link">
+          <a href="{{ quickie.youtube_url }}" target="_blank" rel="noopener noreferrer">▶️ Watch on YouTube</a>
+        </div>
       {% endif %}
       <div class="quickie-meta-bottom">
         <em>Added on {{ quickie.date_created|date:"M Y" }}</em>

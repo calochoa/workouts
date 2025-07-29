@@ -1,5 +1,7 @@
 import datetime
 from django.db import models
+from django.contrib.postgres.fields import JSONField  # Optional on older Django
+# For Django 3.1+ use models.JSONField directly
 
 class QuickieType(models.Model):
     qt_name = models.CharField(max_length=64)
@@ -23,9 +25,22 @@ class BodySplit(models.Model):
 class Exercise(models.Model):
     e_name = models.CharField(max_length=64)
     e_level = models.ForeignKey(Level, on_delete=models.CASCADE)
+    e_body_split = models.ForeignKey(BodySplit, on_delete=models.SET_NULL, null=True, blank=True)
+    e_youtube_id = models.CharField(max_length=64, blank=True, null=True)
+    e_description = models.JSONField(blank=True, null=True)
+
+    def youtube_url(self):
+        return(f"https://www.youtube.com/watch?v={self.e_youtube_id}")
 
     def __str__(self):
-        return (f"ID: {self.id}, Name: {self.e_name}, Level: {self.e_level.l_name}")
+        return (
+            f"ID: {self.id}, "
+            f"Name: {self.e_name}, "
+            f"Level: {self.e_level.l_name}, "
+            f"Body Split: {self.e_body_split.bs_name if self.e_body_split else 'None'}, "
+            f"YouTube ID: {self.e_youtube_id}, "
+            f"Description Keys: {list(self.e_description.keys()) if self.e_description else 'None'}"
+        )
 
 class Quickie(models.Model):
     q_name = models.CharField(max_length=64)

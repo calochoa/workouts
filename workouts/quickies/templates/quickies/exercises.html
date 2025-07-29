@@ -1,0 +1,49 @@
+{% extends "quickies/partials/base.html" %}
+{% load static %}
+{% block title %}Exercises Library{% endblock %}
+{% block header_title %}Exercises Library{% endblock %}
+{% block content %}
+{% include "quickies/partials/filter_form.html" with submit_label="Filter" clear_url="exercises" show_type=False %}
+
+<p class="results"><strong>{{ total_results }}</strong> exercises found.</p>
+
+<div class="quickie-grid">
+  {% for exercise in exercises %}
+    <div class="quickie-card">
+      <h2>{{ exercise.e_name|title }}</h2>
+      <div class="quickie-meta-top">
+        {{ exercise.e_level.l_name }} | {{ exercise.e_body_split.bs_name }}
+      </div>
+      <div class="exercises-list">
+
+        {% if exercise.e_description %}
+          <section class="exercise-about">
+            <h3>About</h3>
+            <p>{{ exercise.e_description.about }}</p>
+          </section>
+      
+          {% if exercise.e_description.instructions %}
+            <section class="exercise-instructions">
+              <h3>Instructions</h3>
+              <ol>
+                {% for step in exercise.e_description.instructions %}
+                  <li>{{ step }}</li>
+                {% endfor %}
+              </ol>
+            </section>
+          {% endif %}
+        {% endif %}
+
+      </div>
+      {% if exercise.e_youtube_id %}
+        <div class="video-link">
+          <a href="{% url 'exercise_detail' exercise.id %}">▶️ Watch Video</a>
+        </div>
+      {% endif %}
+    </div>
+    {% empty %}
+    <p style="text-align:center;"><em>No exercises found.</em></p>
+  {% endfor %}
+</div>
+
+{% endblock %}

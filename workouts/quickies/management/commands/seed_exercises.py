@@ -1,122 +1,72 @@
+import json
+import os
 from django.core.management.base import BaseCommand
-from quickies.models import Exercise, Level
+from django.conf import settings
+from quickies.models import Exercise, Level, BodySplit
 
 class Command(BaseCommand):
-    help = 'Seeds the Exercise model with default exercise names and associated levels.'
+    help = 'Seeds or updates the Exercise model from a JSON file.'
 
-    def handle(self, *args, **kwargs):
-        exercise_data = [
-            (5, "atomic tricep blasters"),
-            (4, "behind the neck pull-ups"),
-            (2, "bicycle crunches"),
-            (2, "box squats"),
-            (6, "burpee muscle-ups"),
-            (5, "burpee pull-ups"),
-            (5, "burpee tuck jumps"),
-            (4, "burpees"),
-            (1, "calf jumps"),
-            (1, "calf raises"),
-            (3, "chest-ups"),
-            (4, "chin-ups"),
-            (6, "clapping pull-ups"),
-            (5, "clapping push-ups"),
-            (4, "commando pull-ups"),
-            (1, "criss cross scissors"),
-            (1, "crunch kicks"),
-            (1, "crunches"),
-            (3, "decline push-ups"),
-            (4, "dips"),
-            (1, "forward backward hops"),
-            (1, "four square hops"),
-            (6, "front lever swings"),
-            (3, "full-body crunches"),
-            (3, "half-wipers"),
-            (6, "handstand push-ups"),
-            (4, "hanging criss cross scissors"),
-            (3, "hanging hurdles"),
-            (3, "hanging knee raises"),
-            (4, "hanging leg raises"),
-            (4, "hanging leg rotations"),
-            (3, "hanging oblique raises"),
-            (4, "hanging open close scissors"),
-            (6, "hanging shoot-ups"),
-            (4, "hanging up down scissors"),
-            (6, "hanging wipers"),
-            (2, "heiden hops"),
-            (1, "high knees"),
-            (1, "incline push-ups"),
-            (3, "inverted rows"),
-            (3, "jumping chin-ups"),
-            (1, "jumping jacks"),
-            (4, "jumping lunges"),
-            (3, "jumping pull-ups"),
-            (1, "knee strikes"),
-            (5, "L sit pull-ups"),
-            (2, "leg raises"),
-            (2, "lunges"),
-            (2, "mountain climbers"),
-            (6, "muscle-ups"),
-            (1, "open close scissors"),
-            (5, "pistol squats"),
-            (2, "plank jacks"),
-            (4, "pull-ups"),
-            (3, "push-ups"),
-            (1, "rolling sit-ups"),
-            (3, "seated dips"),
-            (2, "shoot-ups"),
-            (1, "side crunches"),
-            (1, "side-to-side hops"),
-            (5, "side-to-side pull-ups"),
-            (6, "single-arm push-ups"),
-            (3, "sit-ups"),
-            (4, "spiderman push-ups"),
-            (3, "squat jumps"),
-            (4, "tuck jumps"),
-            (1, "up down scissors"),
-            (4, "wipers"),
-            (1, "small arm circles"),
-            (1, "reverse small arm circles"),
-            (1, "large arm circles"),
-            (1, "reverse large arm circles"),
-            (1, "lateral arm raises"),
-            (1, "front arm raises"),
-            (1, "lateral rotator cuffs"),
-            (1, "front rotator cuffs"),
-            (1, "low arm criss crosses"),
-            (1, "arm criss crosses"),
-            (1, "high arm criss crosses"),
-            (1, "running arm swings"),
-            (1, "neck up-downs"),
-            (1, "neck side-to-sides"),
-            (1, "neck leans"),
-            (1, "neck rotations"),
-            (2, "heel-to-glutes"),
-            (2, "knee hugs"),
-            (2, "ankle hugs"),
-            (2, "toe touches"),
-            (2, "lateral leg swings"),
-            (2, "front leg swings"),
-            (2, "high hurdles"),
-            (2, "reverse high hurdles"),
-        ]
+    def add_arguments(self, parser):
+        parser.add_argument(
+            '--json',
+            type=str,
+            help='Path to the JSON file (relative to BASE_DIR)',
+            required=True,
+        )
 
-        created = 0
-        skipped = 0
+    def handle(self, *args, **options):
+        json_path = os.path.join(settings.BASE_DIR, options['json'])
 
-        for level_value, exercise_name in exercise_data:
+        if not os.path.exists(json_path):
+            self.stdout.write(self.style.ERROR(f"JSON file not found: {json_path}"))
+            return
+
+        with open(json_path, 'r', encoding='utf-8') as f:
+            exercises = json.load(f)
+
+        created, updated, skipped = 0, 0, 0
+
+        for entry in exercises:
+            e_name = entry.get('e_name')
+            level_value = entry.get('e_level')
+            body_split_id = entry.get('e_body_split')
+            e_youtube_id = entry.get('e_youtube_id')
+            e_description = entry.get('e_description', {})  # keep as JSON
+
             try:
                 level = Level.objects.get(l_value=level_value)
-                obj, created_flag = Exercise.objects.get_or_create(
-                    e_name=exercise_name,
-                    defaults={'e_level': level}
-                )
-                if created_flag:
-                    created += 1
-                    self.stdout.write(self.style.SUCCESS(f"Created: {exercise_name} (Level {level_value})"))
-                else:
-                    skipped += 1
-                    self.stdout.write(self.style.WARNING(f"Already exists: {exercise_name} — skipping"))
             except Level.DoesNotExist:
-                self.stdout.write(self.style.ERROR(f"Level with l_value={level_value} does not exist — skipping {exercise_name}"))
+                self.stdout.write(self.style.ERROR(f"Missing Level (l_value={level_value}) for {e_name}"))
+                skipped += 1
+                continue
 
-        self.stdout.write(self.style.SUCCESS(f"\nDone. Created: {created}, Skipped: {skipped}"))
+            body_split = None
+            if body_split_id:
+                try:
+                    body_split = BodySplit.objects.get(id=body_split_id)
+                except BodySplit.DoesNotExist:
+                    self.stdout.write(self.style.ERROR(f"Missing BodySplit (id={body_split_id}) for {e_name}"))
+                    skipped += 1
+                    continue
+
+            obj, created_flag = Exercise.objects.update_or_create(
+                e_name=e_name,
+                defaults={
+                    'e_level': level,
+                    'e_body_split': body_split,
+                    'e_youtube_id': e_youtube_id,
+                    'e_description': e_description  # store as structured JSON
+                }
+            )
+
+            if created_flag:
+                created += 1
+                self.stdout.write(self.style.SUCCESS(f"Created: {e_name}"))
+            else:
+                updated += 1
+                self.stdout.write(self.style.WARNING(f"Updated: {e_name}"))
+
+        self.stdout.write(self.style.SUCCESS(
+            f"\nDone. Created: {created}, Updated: {updated}, Skipped: {skipped}"
+        ))

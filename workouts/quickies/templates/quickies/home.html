@@ -1,7 +1,7 @@
 {% extends "quickies/partials/base.html" %}
 {% load static %}
-{% block title %}Quickies Home{% endblock %}
-{% block header_title %}🏋️ Welcome to Quickies{% endblock %}
+{% block title %}Home{% endblock %}
+{% block header_title %}Welcome to Quickies{% endblock %}
 
 {% block content %}
 <div style="text-align:center;">
@@ -19,7 +19,12 @@
       <h4>Exercises</h4>
       <ul class="exercise-list">
         {% for qe in quickie.quickie_exercises.all %}
-          <li>{{ qe.reps }} {{ qe.exercise.e_name }}</li>
+          <li>
+            {{ qe.reps }} 
+            <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
+              {{ qe.exercise.e_name }}
+            </a>
+          </li>
         {% empty %}
           <li><em>No exercises assigned.</em></li>
         {% endfor %}

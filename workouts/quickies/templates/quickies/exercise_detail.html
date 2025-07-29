@@ -1,0 +1,43 @@
+{% extends "quickies/partials/base.html" %}
+{% load static %}
+{% block title %}💪 {{exercise.e_name|title}}{% endblock %}
+{% block header_title %}💪 {{exercise.e_name|title}}{% endblock %}
+
+{% block content %}
+<main class="exercise-detail container">
+
+  {% if exercise.e_youtube_id %}
+    <div class="exercise-video">
+      <iframe
+        src="https://www.youtube.com/embed/{{ exercise.e_youtube_id }}"
+        frameborder="0"
+        allowfullscreen
+        title="{{ exercise.e_name }} Video">
+      </iframe>
+    </div>
+  {% endif %}
+
+  <section class="exercise-meta">
+    <p class="meta-item"><strong>Body Split:</strong> {{ exercise.e_body_split.bs_name }}</p>
+    <p class="meta-item"><strong>Level:</strong> {{ exercise.e_level.l_name }}</p>
+  </section>
+
+  {% if exercise.e_description %}
+    <section class="exercise-about">
+      <h2>About</h2>
+      <p>{{ exercise.e_description.about }}</p>
+    </section>
+
+    {% if exercise.e_description.instructions %}
+      <section class="exercise-instructions">
+        <h2>Instructions</h2>
+        <ol>
+          {% for step in exercise.e_description.instructions %}
+            <li>{{ step }}</li>
+          {% endfor %}
+        </ol>
+      </section>
+    {% endif %}
+  {% endif %}
+</main>
+{% endblock %}

@@ -1,7 +1,8 @@
 import datetime
 import random
 from django.shortcuts import render
-from .models import Quickie, Level, BodySplit, QuickieType
+from django.http import Http404
+from .models import Quickie, Level, BodySplit, QuickieType, Exercise
 
 def home(request):
     today = datetime.date.today()
@@ -44,3 +45,37 @@ def __get_quickies_context(request):
         'selected_body_split': selected_body_split,
         'total_results': quickies.count()
     }
+
+def exercises(request):
+    # Get filter params from GET request
+    selected_level = request.GET.get("level")
+    selected_body_split = request.GET.get("body_split")
+
+    exercises = Exercise.objects.all()
+
+    if selected_level:
+        exercises = exercises.filter(e_level__l_name=selected_level)
+    if selected_body_split:
+        exercises = exercises.filter(e_body_split__bs_name=selected_body_split)
+
+    exercises_context = {
+        'exercises': exercises,
+        'levels': Level.objects.all(),
+        'body_splits': BodySplit.objects.all(),
+        'selected_level': selected_level,
+        'selected_body_split': selected_body_split,
+        'total_results': exercises.count()
+    }
+    return render(request, 'quickies/exercises.html', exercises_context)
+
+
+def exercise_detail(request, exercise_id):
+    if not exercise_id:
+        raise Http404("Exercise ID not provided.")
+
+    try:
+        exercise = Exercise.objects.select_related('e_level', 'e_body_split').get(id=exercise_id)
+    except Exercise.DoesNotExist:
+        raise Http404("Exercise not found.")
+
+    return render(request, 'quickies/exercise_detail.html', {'exercise': exercise})

@@ -1,9 +1,9 @@
 {% extends "quickies/partials/base.html" %}
 {% load static %}
-{% block title %}🎲 Quickies Roulette{% endblock %}
-{% block header_title %}🎲 Quickies Roulette{% endblock %}
+{% block title %}Quickies Roulette{% endblock %}
+{% block header_title %}Quickies Roulette{% endblock %}
 {% block content %}
-{% include "quickies/partials/filter_form.html" with submit_label="Spin the Wheel" clear_url="quickies_roulette" %}
+{% include "quickies/partials/filter_form.html" with submit_label="Spin the Wheel" clear_url="quickies_roulette" show_type=True %}
 
 {% if selected_quickie %}
 <div class="card">
@@ -15,7 +15,12 @@
       <h4>Exercises</h4>
       <ul class="exercise-list">
         {% for qe in selected_quickie.quickie_exercises.all %}
-          <li>{{ qe.reps }} {{ qe.exercise.e_name }}</li>
+          <li>
+            {{ qe.reps }} 
+            <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
+              {{ qe.exercise.e_name }}
+            </a>
+          </li>
         {% empty %}
           <li><em>No exercises assigned.</em></li>
         {% endfor %}

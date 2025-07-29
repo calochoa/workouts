@@ -1,0 +1,66 @@
+/* Base styles for nav */
+.main-nav {
+  background-color: #fff;
+  padding: 10px 0;
+}
+
+/* Hide toggle input */
+.nav-toggle {
+  display: none;
+}
+
+/* Label styles (hamburger icon) */
+.nav-toggle-label {
+  display: none; /* hidden on desktop */
+  font-size: 1.2rem;
+  cursor: pointer;
+  user-select: none;
+  padding: 0 16px;
+  line-height: 1;
+  color: #333;
+}
+
+/* Nav links container */
+.nav-links {
+  display: flex;
+  justify-content: center; /* center nav links on desktop */
+  gap: 20px;
+}
+
+/* Nav link styles */
+.nav-links a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 8px 12px;
+  transition: background-color 0.2s ease;
+}
+
+.nav-links a:hover,
+.nav-links a:focus {
+  background-color: #eee;
+  border-radius: 4px;
+  outline: none;
+}
+
+/* Mobile styles */
+@media (max-width: 600px) {
+  .nav-toggle-label {
+    display: block;  /* show hamburger */
+    text-align: left;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start; /* left align menu items */
+    padding-left: 16px;
+    margin-top: 8px;
+    gap: 6px;
+  }
+
+  /* Show nav-links when checkbox is checked */
+  .nav-toggle:checked + .nav-toggle-label + .nav-links {
+    display: flex;
+  }
+}
