@@ -105,7 +105,7 @@ a:hover {
 /* Exercise link: inline and normal styling */
 .exercise-link {
   font-weight: normal;
-  text-decoration: underline;
+  text-decoration: none;
   margin-left: 4px;
 }
 
