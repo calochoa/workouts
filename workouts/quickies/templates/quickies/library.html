@@ -18,9 +18,8 @@
       <div class="exercises-list">
         {% for qe in quickie.quickie_exercises.all %}
           {{ qe.reps }}
-          <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
-            {{ qe.exercise.e_name }}
-          </a><br/>
+          <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">{{ qe.exercise.e_name }}</a>
+          <br/>
         {% empty %}
           <em>No exercises assigned.</em>
         {% endfor %}

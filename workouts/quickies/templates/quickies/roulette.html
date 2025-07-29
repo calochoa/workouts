@@ -9,7 +9,7 @@
 <div class="card">
     <div class="card-header">
       <h2>{{ selected_quickie.q_name }}</h2>
-      <p><em>{{ selected_quickie.q_level.l_name }} | {{ selected_quickie.q_body_split.bs_name }} | {{ selected_quickie.q_type.qt_name }}</em></p>
+      <p><em>{{ selected_quickie.q_type.qt_name }} | {{ selected_quickie.q_level.l_name }} | {{ selected_quickie.q_body_split.bs_name }}</em></p>
     </div>
     <div class="card-body">
       <h4>Exercises</h4>
@@ -17,9 +17,7 @@
         {% for qe in selected_quickie.quickie_exercises.all %}
           <li>
             {{ qe.reps }} 
-            <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
-              {{ qe.exercise.e_name }}
-            </a>
+            <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">{{ qe.exercise.e_name }}</a>
           </li>
         {% empty %}
           <li><em>No exercises assigned.</em></li>
