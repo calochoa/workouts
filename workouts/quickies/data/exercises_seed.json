@@ -1129,5 +1129,401 @@
         "Keep lower back pressed lightly on the floor and move only through core control, not swinging the hips."
       ]
     }
+  },
+  {
+    "e_name": "small arm circles",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Small arm circles are a dynamic warm-up movement designed to gently activate the shoulders, deltoids, and upper back. By performing small forward circular motions, this exercise helps improve joint mobility, blood flow, and range of motion in the shoulder girdle.",
+      "instructions": [
+        "Stand upright with your feet shoulder-width apart and extend your arms straight out to your sides at shoulder height.",
+        "Keep your arms straight and begin making small forward circular motions with your hands.",
+        "Maintain controlled movement and avoid shrugging your shoulders.",
+        "Continue the motion for 20-30 seconds or 15-20 circles.",
+        "Repeat for 2-3 sets as part of your warm-up routine."
+      ]
+    }
+  },
+  {
+    "e_name": "reverse small arm circles",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Reverse small arm circles target the same shoulder and upper back muscles as the forward variation but emphasize the rear deltoids and shoulder retraction more. They help increase shoulder flexibility and muscular endurance in a safe and low-impact way.",
+      "instructions": [
+        "Stand with arms extended straight out to the sides at shoulder height.",
+        "Begin making small backward circular motions with your hands, keeping your arms fully extended and steady.",
+        "Engage your core and maintain an upright posture throughout the movement.",
+        "Perform the circles for 20-30 seconds or 15-20 reps.",
+        "Repeat for 2-3 sets or alternate with forward circles for a balanced warm-up."
+      ]
+    }
+  },
+  {
+    "e_name": "large arm circles",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Large arm circles are a dynamic mobility drill that increases flexibility in the shoulders and upper arms while activating the chest and back muscles. The larger range of motion promotes joint lubrication and prepares the body for upper-body workouts or sports activities.",
+      "instructions": [
+        "Stand tall with your arms extended out to your sides at shoulder height.",
+        "Begin making large forward circular motions with your arms, gradually increasing the range of motion without straining.",
+        "Ensure your arms stay relatively straight and avoid arching your back.",
+        "Perform 10-15 large circles forward in a smooth and controlled manner.",
+        "Repeat for 2-3 sets, resting briefly between rounds if needed."
+      ]
+    }
+  },
+  {
+    "e_name": "reverse large arm circles",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Reverse large arm circles help improve shoulder stability, scapular mobility, and posture. Rotating the arms backward in a wide arc targets the posterior deltoids and upper back, making this stretch a valuable warm-up or active recovery drill.",
+      "instructions": [
+        "Stand with your feet hip-width apart and arms extended at shoulder height.",
+        "Make large backward circular motions with your arms, keeping them straight and controlled.",
+        "Focus on a full, smooth range of motion without flaring your ribs or shrugging your shoulders.",
+        "Complete 10-15 repetitions in reverse, breathing steadily as you move.",
+        "Repeat for 2-3 sets or alternate with the forward version for optimal shoulder prep."
+      ]
+    }
+  },
+  {
+    "e_name": "lateral arm raises",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Lateral arm raises are a gentle shoulder mobility exercise that targets the lateral deltoids and upper trapezius muscles. This stretch helps improve shoulder flexibility and posture, making it a great warm-up movement before upper-body workouts or sports requiring arm movement.",
+      "instructions": [
+        "Stand upright with your feet shoulder-width apart and arms relaxed at your sides.",
+        "Slowly raise your arms out to the sides until they reach shoulder height, forming a 'T' shape with your body.",
+        "Pause briefly at the top, keeping your arms parallel to the ground and your palms facing down.",
+        "Lower your arms back to your sides in a controlled motion.",
+        "Repeat for 10-15 repetitions, maintaining a steady breathing rhythm throughout the movement."
+      ]
+    }
+  },
+  {
+    "e_name": "front arm raises",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Front arm raises are a dynamic stretch that primarily activates the front deltoid muscles while also engaging the upper chest and shoulders. This movement improves anterior shoulder mobility and is ideal for warming up before pressing or overhead movements.",
+      "instructions": [
+        "Stand tall with your arms relaxed at your sides and your palms facing your thighs.",
+        "Raise both arms straight in front of you to shoulder height, keeping them parallel and extended.",
+        "Pause briefly at the top with your palms facing down and arms aligned with your shoulders.",
+        "Lower your arms back down slowly and with control.",
+        "Perform 10-15 repetitions, focusing on smooth, steady motion and upright posture."
+      ]
+    }
+  },
+  {
+    "e_name": "lateral rotator cuffs",
+    "e_level": 1,
+    "e_body_split": 1,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "The lateral rotator cuff stretch is designed to gently improve external rotation and shoulder joint mobility, particularly targeting the infraspinatus and teres minor muscles. This stretch helps maintain healthy shoulder function and can support injury prevention during overhead or throwing activities.",
+      "instructions": [
+        "Stand upright with feet shoulder-width apart.",
+        "Extend one arm out to the side at shoulder height, then bend the elbow 90 degrees so your forearm points downward and your palm faces the floor.",
+        "While keeping your upper arm stable, slowly rotate your forearm upward until your palm is facing forward.",
+        "Hold the rotated position for 5-10 seconds, feeling a stretch through your shoulder.",
+        "Return to the starting position with control.",
+        "Repeat for 8-12 repetitions on each side."
+      ]
+    }
+  },
+  {
+    "e_name": "front rotator cuffs",
+    "e_level": 1,
+    "e_body_split": 1,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "The front rotator cuff stretch is a mobility exercise that targets the subscapularis and other rotator cuff muscles responsible for internal and external shoulder rotation. By practicing this stretch with the arm positioned in front of the body, it emphasizes anterior mobility and can aid in reducing shoulder tightness.",
+      "instructions": [
+        "Stand upright with your arm extended straight in front of you at shoulder height.",
+        "Bend your elbow 90 degrees so your forearm points downward and your palm faces the floor.",
+        "While keeping your upper arm stable, rotate your forearm upward until your palm faces forward.",
+        "Hold the stretch for 5-10 seconds, focusing on the controlled rotation in the shoulder joint.",
+        "Slowly return to the starting position.",
+        "Perform 8-12 repetitions per side, switching arms after completing the set."
+      ]
+    }
+  },
+  {
+    "e_name": "low arm criss crosses",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Low arm criss crosses are a variation of the classic arm criss cross stretch, focusing more on the lower pectoral and front deltoid muscles. It encourages gentle mobility in the shoulders and chest while maintaining a slightly lower arm angle.",
+      "instructions": [
+        "Stand upright with arms extended downward at about a 45-degree angle from your sides.",
+        "Swing both arms inward so they cross low in front of your hips.",
+        "Return the arms outward with control to the starting position.",
+        "Alternate which arm is on top each time you cross.",
+        "Perform the movement rhythmically for 30-60 seconds."
+      ]
+    }
+  },
+  {
+    "e_name": "arm criss crosses",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "The arm criss cross stretch targets the chest, shoulders, and upper back by dynamically opening and closing the arms across the centerline of the body. This movement helps warm up the upper body and improves shoulder mobility and circulation.",
+      "instructions": [
+        "Stand upright with feet shoulder-width apart and arms extended out to the sides at shoulder height.",
+        "Swing your arms inward across your chest so they crisscross in front of your body.",
+        "Open your arms back out to the sides with control.",
+        "Alternate which arm crosses on top each time.",
+        "Repeat the motion continuously for 30-60 seconds while maintaining a steady rhythm."
+      ]
+    }
+  },
+  {
+    "e_name": "high arm criss crosses",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "High arm criss crosses are a dynamic stretch that targets the upper chest, shoulders, and upper traps. Performing the motion at head level or above increases shoulder range of motion and promotes flexibility in the upper thoracic region.",
+      "instructions": [
+        "Stand with arms raised just above shoulder level, extended outward to the sides.",
+        "Swing your arms inward so they crisscross in front of your face or forehead.",
+        "Open the arms back out with control.",
+        "Alternate the top arm with each repetition.",
+        "Continue for 30-60 seconds, keeping a light and steady motion."
+      ]
+    }
+  },
+  {
+    "e_name": "running arm swings",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Running arm swings simulate the natural motion of the arms during a running stride. This dynamic stretch helps warm up the shoulders, upper back, and arms, promoting coordination and range of motion before cardio or full-body workouts.",
+      "instructions": [
+        "Stand tall with feet hip-width apart and arms relaxed at your sides.",
+        "Begin swinging one arm forward and the opposite arm backward, mimicking a running motion.",
+        "Keep elbows slightly bent and swing naturally from the shoulders.",
+        "Alternate arms in a rhythmic and controlled manner.",
+        "Continue the motion for 30-60 seconds, gradually increasing speed if desired."
+      ]
+    }
+  },
+  {
+    "e_name": "neck up-downs",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Neck up-downs are a gentle and effective stretch that target the front and back of the neck. This exercise helps reduce stiffness, increase cervical mobility, and relieve tension caused by prolonged sitting or poor posture.",
+      "instructions": [
+        "Sit or stand tall with your shoulders relaxed and back straight.",
+        "Slowly lower your chin toward your chest, feeling a stretch in the back of your neck.",
+        "Hold for 3-5 seconds.",
+        "Gently tilt your head back to look upward, stretching the front of your neck.",
+        "Hold for 3-5 seconds.",
+        "Return to the starting position.",
+        "Repeat for 8-10 controlled repetitions."
+      ]
+    }
+  },
+  {
+    "e_name": "neck side-to-sides",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Neck side-to-side stretches help release tension in the sides of the neck and improve flexibility in the cervical spine. This movement is especially beneficial for people experiencing tightness from desk work or poor sleeping posture.",
+      "instructions": [
+        "Sit or stand in a relaxed, upright position.",
+        "Turn your head slowly to the right until you feel a gentle stretch along the side of your neck.",
+        "Hold for 3-5 seconds.",
+        "Return to center, then turn your head to the left.",
+        "Hold for another 3-5 seconds.",
+        "Repeat the motion 8-10 times on each side."
+      ]
+    }
+  },
+  {
+    "e_name": "neck leans",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Neck leans stretch the muscles on the side of the neck and upper shoulders. This movement helps alleviate stiffness and improve the range of motion, making it ideal for warming up or cooling down.",
+      "instructions": [
+        "Sit or stand upright with a neutral spine and relaxed shoulders.",
+        "Slowly tilt your head to the right, bringing your ear toward your shoulder without lifting the shoulder.",
+        "Hold for 5 seconds while feeling a stretch on the left side of your neck.",
+        "Return to center and repeat on the left side.",
+        "Hold again for 5 seconds.",
+        "Repeat 8-10 times per side."
+      ]
+    }
+  },
+  {
+    "e_name": "neck rotations",
+    "e_level": 1,
+    "e_body_split": 2,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Neck rotations improve mobility and flexibility in the cervical spine by gently rotating the head through its range of motion. This stretch helps relieve muscle tightness and is useful for desk workers or those with limited head-turning mobility.",
+      "instructions": [
+        "Sit or stand with a tall posture and shoulders relaxed.",
+        "Slowly rotate your head to the right, keeping your chin level and aligned with your neck.",
+        "Hold for 3-5 seconds, feeling a stretch along the opposite side.",
+        "Return to the center, then rotate to the left.",
+        "Hold for 3-5 seconds.",
+        "Repeat for 8-10 repetitions on each side."
+      ]
+    }
+  },
+  {
+    "e_name": "heel-to-glutes",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Heel-to-glutes is a dynamic stretch that targets the quadriceps and helps improve knee flexion. It's commonly used in warm-ups to prepare the lower body for running or explosive movement.",
+      "instructions": [
+        "Stand tall with feet hip-width apart.",
+        "Lift your right heel toward your glute by bending your knee.",
+        "Grab your right ankle with your right hand to gently increase the stretch.",
+        "Keep your knees close together and your back straight.",
+        "Hold for 2-3 seconds, then release.",
+        "Repeat on the left side.",
+        "Continue alternating legs for 8-10 reps per side."
+      ]
+    }
+  },
+  {
+    "e_name": "knee hugs",
+    "e_level": 2,
+    "e_body_split": 1,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Knee hugs stretch the glutes, lower back, and hips. This movement helps improve hip mobility and balance, making it ideal for warming up before running or lower-body workouts.",
+      "instructions": [
+        "Stand upright with feet shoulder-width apart.",
+        "Lift your right knee toward your chest.",
+        "Wrap both hands around your shin and gently pull your knee in close.",
+        "Hold the stretch for 2-3 seconds while standing tall.",
+        "Lower your leg and repeat on the opposite side.",
+        "Alternate legs for 8-10 reps per side."
+      ]
+    }
+  },
+  {
+    "e_name": "ankle hugs",
+    "e_level": 2,
+    "e_body_split": 1,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Ankle hugs are a compound stretch that targets the hamstrings, calves, and glutes. The movement involves bending at the waist and pulling the ankle toward the torso, encouraging flexibility and balance.",
+      "instructions": [
+        "Stand tall with feet hip-width apart.",
+        "Lift your right leg straight in front of you while keeping it extended.",
+        "Reach forward with both hands and gently hug your ankle or shin, maintaining balance.",
+        "Hold the position for 2-3 seconds, feeling a stretch in the back of your leg.",
+        "Lower the leg and repeat on the other side.",
+        "Perform 8-10 repetitions on each leg."
+      ]
+    }
+  },
+  {
+    "e_name": "toe touches",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Toe touches stretch the hamstrings, calves, and lower back. This static stretch is great for improving flexibility and relieving tightness in the posterior chain.",
+      "instructions": [
+        "Stand with feet hip-width apart and knees slightly bent or straight depending on flexibility.",
+        "Slowly bend at the waist and reach down toward your toes.",
+        "Allow your arms to hang or try to touch your toes with your fingertips.",
+        "Hold the stretch for 15-30 seconds while breathing deeply.",
+        "Return to the starting position slowly.",
+        "Repeat 2-3 times."
+      ]
+    }
+  },
+  {
+    "e_name": "lateral leg swings",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Lateral leg swings are a dynamic stretch that target the inner and outer thighs, hips, and glutes. This movement helps improve hip mobility and flexibility, making it ideal for warm-ups before running or agility drills.",
+      "instructions": [
+        "Stand next to a wall or sturdy surface for balance.",
+        "Shift your weight onto your left leg and swing your right leg side-to-side in front of your body.",
+        "Keep your torso upright and your core engaged throughout the movement.",
+        "Swing the leg gently at first, increasing the range of motion as you loosen up.",
+        "Perform 10-15 swings, then switch legs."
+      ]
+    }
+  },
+  {
+    "e_name": "front leg swings",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Front leg swings are used to dynamically stretch the hamstrings, hip flexors, and quadriceps. They enhance lower-body mobility and are commonly used in pre-run warm-ups.",
+      "instructions": [
+        "Stand tall next to a wall or post for support.",
+        "Swing your right leg forward and backward in a controlled motion.",
+        "Keep your leg straight and your core engaged.",
+        "Avoid arching your back or swinging too forcefully.",
+        "Perform 10-15 swings, then switch to the other leg."
+      ]
+    }
+  },
+  {
+    "e_name": "high hurdles",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "High hurdles are a mobility drill designed to mimic the movement of stepping over a high barrier. This stretch targets the hips, hip flexors, and glutes, and helps improve dynamic flexibility and coordination.",
+      "instructions": [
+        "Stand tall with feet hip-width apart.",
+        "Lift your right knee high in front of you.",
+        "Rotate your hip outward and step your leg over an imaginary hurdle to the side.",
+        "Plant your foot and repeat with the left leg.",
+        "Perform 8-10 reps per side in a controlled motion."
+      ]
+    }
+  },
+  {
+    "e_name": "reverse high hurdles",
+    "e_level": 2,
+    "e_body_split": 3,
+    "e_youtube_id": "",
+    "e_description": {
+      "about": "Reverse high hurdles target the same muscle groups as high hurdles but in the reverse direction, enhancing balance, coordination, and hip joint mobility.",
+      "instructions": [
+        "Stand tall with feet hip-width apart.",
+        "Lift your right knee out to the side as if finishing a hurdle movement.",
+        "Rotate your leg inward and bring it down in front of your body.",
+        "Plant your foot and repeat with the left leg.",
+        "Perform 8-10 controlled reps per side."
+      ]
+    }
   }
 ]
