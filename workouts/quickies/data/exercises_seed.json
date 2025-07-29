@@ -270,7 +270,7 @@
     "e_name": "crunch kicks",
     "e_level": 1,
     "e_body_split": 4,
-    "e_youtube_id": "https://www.youtube.com/watch?v=2WtR_OdkSV8",
+    "e_youtube_id": "2WtR_OdkSV8",
     "e_description": {
       "about": "Crunch Kicks are a dynamic core-focused exercise that target the lower abs and hip flexors. They help strengthen abdominal control, improve flexibility and engage the entire core without equipment.",
       "instructions": [
@@ -649,7 +649,7 @@
     "e_body_split": 2,
     "e_youtube_id": "B7XDCe5ayA8",
     "e_description": {
-      "about": "The inverted row is a bodyweight pulling exercise that targets the muscles of the upper back—especially the lats, rhomboids, and traps—while also engaging the biceps and core. It’s an excellent progression for building upper-body pulling strength and improving pull-up ability.",
+      "about": "The inverted row is a bodyweight pulling exercise that targets the muscles of the upper back—especially the lats, rhomboids, and traps—while also engaging the biceps and core. It's an excellent progression for building upper-body pulling strength and improving pull-up ability.",
       "instructions": [
         "Find a sturdy bar (or use a Smith-machine or suspension trainer) set at around hip to chest height.",
         "Lie underneath it and grab the bar with an overhand grip, hands slightly wider than shoulder-width.",
@@ -665,7 +665,7 @@
     "e_name": "jumping chin-ups",
     "e_level": 3,
     "e_body_split": 2,
-    "e_youtube_id": "https://www.youtube.com/watch?v=gXsTuiUer48",
+    "e_youtube_id": "gXsTuiUer48",
     "e_description": {
       "about": "Jumping chin-ups bridge the gap between assisted and full chin-ups by using momentum off the ground. They target the lats, biceps, upper back, and grip strength, while helping build strength for full chin-ups.",
       "instructions": [
@@ -834,7 +834,7 @@
     "e_body_split": 4,
     "e_youtube_id": "v0_dlmFvnL4",  
     "e_description": {
-      "about": "A core-targeting exercise performed lying on your back. Legs are lifted slightly and moved apart and together in a controlled ‘scissor’ motion, helping to build lower abdominal and hip flexor strength, while improving hip control and endurance.",
+      "about": "A core-targeting exercise performed lying on your back. Legs are lifted slightly and moved apart and together in a controlled ‘scissor' motion, helping to build lower abdominal and hip flexor strength, while improving hip control and endurance.",
       "instructions": [
         "Lie flat on your back with your legs extended and arms by your sides.",
         "Lift your shoulders and legs a few inches off the floor, engaging the core.",
@@ -870,7 +870,7 @@
       "about": "Plank jacks are a dynamic bodyweight exercise that merges core-strengthening benefits of a plank with cardiovascular impact of a jumping jack. They primarily engage the abdominals, shoulders, glutes, and legs, boosting stability, coordination, and endurance.",
       "instructions": [
         "Begin in a high plank position: hands directly under shoulders, body forming a straight line from head to heels.",
-        "Engage your core and squeeze your glutes to maintain alignment—don’t let your hips drop or lift.",
+        "Engage your core and squeeze your glutes to maintain alignment—don't let your hips drop or lift.",
         "Quickly jump both feet out to just beyond shoulder-width, then jump them back together, keeping your torso steady.",
         "Continue jumping in and out in a controlled, rhythmic motion for the desired time or reps.",
         "Maintain even breathing throughout and stop if you feel strain in your lower back or wrists."
@@ -914,14 +914,16 @@
     "e_name": "rolling sit-ups",
     "e_level": 1,
     "e_body_split": 4,
-    "e_youtube_id": "https://www.youtube.com/watch?v=Exh-xo2Plbs",
+    "e_youtube_id": "Exh-xo2Plbs",
     "e_description": {
-      "about": "Rolling Sit-Ups is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Rolling sit-ups are a dynamic variation of the traditional sit-up that target the entire core, especially the rectus abdominis and hip flexors. The rolling motion helps improve coordination, engages stabilizer muscles, and adds a slight cardio element to the movement. It's a great bodyweight core exercise suitable for beginners looking to build core strength in a more fluid, full-body motion.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Sit on the floor with your knees bent and feet flat on the ground.",
+        "Extend your arms forward and tuck your chin slightly.",
+        "Roll back onto your spine, allowing your back to touch the ground smoothly.",
+        "Use momentum and your core muscles to roll back up to a seated position.",
+        "Try to keep your feet planted and avoid jerky motions.",
+        "Repeat the movement fluidly for the desired number of repetitions."
       ]
     }
   },
@@ -929,14 +931,17 @@
     "e_name": "seated dips",
     "e_level": 3,
     "e_body_split": 2,
-    "e_youtube_id": "https://www.youtube.com/watch?v=ovVHOfT35eo",
+    "e_youtube_id": "ovVHOfT35eo",
     "e_description": {
-      "about": "Seated Dips is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Seated dips are a machine-based exercise that primarily targets the triceps while engaging the chest and shoulders. By pressing handles downward from a seated position with arms fully extended, you build upper-body pushing strength without bearing your full body weight.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Adjust the seat so that the handles are approximately at chest level.",
+        "Sit upright against the pad, feet flat on the floor, and maintain a straight back.",
+        "Grip the handles with a neutral (palms inward) grip, elbows close to your sides.",
+        "Lower yourself by bending at the elbows until they reach about a 90° angle.",
+        "Pause briefly at the bottom, then push back up to near-full arm extension without locking out.",
+        "Keep core engaged and body aligned throughout the movement to avoid momentum.",
+        "Exhale as you press down, inhale as you return to start."
       ]
     }
   },
@@ -961,29 +966,33 @@
     "e_name": "side crunches",
     "e_level": 1,
     "e_body_split": 4,
-    "e_youtube_id": "https://www.youtube.com/watch?v=PO5yfLjUDbE",
+    "e_youtube_id": "PO5yfLjUDbE",
     "e_description": {
-      "about": "Side Crunches is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Side crunches (also called oblique crunches) are a variation of the standard crunch that target the oblique muscles along your side waist. This isolation core exercise strengthens the external and internal obliques along with the rectus abdominis, helping to improve core stability and torso definition.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Lie on your side with knees bent and stacked, feet on the floor.",
+        "Place your lower arm on the floor for support and upper hand gently behind your head.",
+        "Keep your head neutral, chin angled slightly down.",
+        "Squeeze your obliques and lift your torso upward—elbow moves toward hip.",
+        "Pause 1-2 seconds at the top feeling the contraction.",
+        "Lower back down with control moving only your torso.",
+        "Complete desired reps, then switch sides and repeat."
       ]
     }
   },
   {
     "e_name": "side-to-side hops",
     "e_level": 1,
-    "e_body_split": 1,
-    "e_youtube_id": "https://www.youtube.com/watch?v=ujj6IuL3zOM",
+    "e_body_split": 3,
+    "e_youtube_id": "ujj6IuL3zOM",
     "e_description": {
-      "about": "Side-To-Side Hops is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Side-to-side hops are a beginner-level plyometric exercise that improves cardiovascular fitness while working your quads, glutes, calves, and improving lateral agility and coordination.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Stand with feet hip-width apart, knees slightly bent, core engaged.",
+        "Bend hips slightly, stay light on the balls of your feet.",
+        "Explosively hop laterally to the right, landing softly on both feet.",
+        "Immediately push off and hop back to the left side.",
+        "Continue alternating sides in a steady rhythm for desired reps or time."
       ]
     }
   },
@@ -991,14 +1000,15 @@
     "e_name": "side-to-side pull-ups",
     "e_level": 5,
     "e_body_split": 2,
-    "e_youtube_id": "https://www.youtube.com/watch?v=55fd5RV4JV4",
+    "e_youtube_id": "55fd5RV4JV4",
     "e_description": {
-      "about": "Side-To-Side Pull-Ups is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "An explosive upper-body pull-up variation where you shift laterally on the bar each rep. This engages the lats, biceps, shoulders, obliques, and core to stabilize the torso while pulling side-to-side.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Grip the pull-up bar with palms facing away, shoulder-width apart.",
+        "Hang in a dead-hang position with core tight.",
+        "Pull your body up toward your left hand so your left pec nears the bar.",
+        "Lower down in a controlled motion, then pull toward the right hand on the next rep.",
+        "Continue alternating sides while keeping your torso steady and core engaged."
       ]
     }
   },
@@ -1006,14 +1016,15 @@
     "e_name": "single-arm push-ups",
     "e_level": 6,
     "e_body_split": 2,
-    "e_youtube_id": "https://www.youtube.com/watch?v=U73FFFpin8s",
+    "e_youtube_id": "U73FFFpin8s",
     "e_description": {
-      "about": "Single-Arm Push-Ups is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "A highly advanced unilateral upper-body exercise, the single-arm push-up challenges shoulder, chest, triceps, and core strength while demanding exceptional balance and control.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Begin in a standard high-plank push-up position, feet wider to increase stability.",
+        "Shift your weight onto one arm and the opposite foot, keeping the torso stable and core engaged.",
+        "Lower your body slowly toward the ground, keeping the elbow tucked in at a 45-degree angle.",
+        "Press back up through the supporting arm, maintaining a straight body line.",
+        "Repeat for desired reps, then switch sides and repeat."
       ]
     }
   },
@@ -1021,14 +1032,16 @@
     "e_name": "sit-ups",
     "e_level": 3,
     "e_body_split": 4,
-    "e_youtube_id": "https://www.youtube.com/watch?v=TjxDtCzJQkg",
+    "e_youtube_id": "TjxDtCzJQkg",
     "e_description": {
-      "about": "Sit-Ups is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Sit-ups are a classic core exercise that engage the full range of the abdominal muscles—including the rectus abdominis, obliques, and hip flexors—to lift your torso from a lying to a seated position. When performed with control and proper form, they help build core strength and improve posture.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Lie on your back with knees bent and feet flat on the floor, about hip-width apart.",
+        "Place your hands lightly on your temples or keep arms crossed on your chest.",
+        "Engage your core, keeping your neck neutral—not pulling with your hands.",
+        "Exhale and curl your torso up until it’s nearly vertical, lifting chest toward knees.",
+        "Hold for a moment at the top, then inhale and slowly lower back down with control.",
+        "Repeat for the desired number of reps, avoiding momentum and guiding the movement with your core."
       ]
     }
   },
@@ -1036,14 +1049,15 @@
     "e_name": "spiderman push-ups",
     "e_level": 4,
     "e_body_split": 2,
-    "e_youtube_id": "https://www.youtube.com/watch?v=f29xFGVjKA8",
+    "e_youtube_id": "f29xFGVjKA8",
     "e_description": {
-      "about": "Spiderman Push-Ups is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Spiderman push-ups are an advanced variation of the standard push-up that combine upper body strength with core stability and hip mobility. This exercise involves bringing one knee toward the elbow during the descent, mimicking the movement of climbing a wall, thereby engaging the chest, shoulders, triceps, core, and hip flexors.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Begin in a high plank position with hands slightly wider than shoulder-width apart and feet hip-width apart.",
+        "As you lower your body toward the floor, bring your right knee toward your right elbow, keeping your hips level and core engaged.",
+        "Push back up to the starting position, returning your right leg to the starting position.",
+        "Repeat the movement on the left side, bringing your left knee toward your left elbow during the next push-up.",
+        "Continue alternating sides for the desired number of reps, maintaining a steady rhythm and proper form throughout."
       ]
     }
   },
@@ -1051,29 +1065,34 @@
     "e_name": "squat jumps",
     "e_level": 3,
     "e_body_split": 3,
-    "e_youtube_id": "https://www.youtube.com/watch?v=i3gcPC0Tm0c",
+    "e_youtube_id": "i3gcPC0Tm0c",
     "e_description": {
-      "about": "Squat Jumps is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
+      "about": "Squat jumps are a high-intensity, plyometric lower-body exercise that develops explosive power and strength in the legs, glutes, and core. As a progression of the bodyweight squat, the jump phase forces rapid muscle activation and helps improve vertical lift, coordination, and cardiovascular endurance:contentReference[oaicite:0]{index=0}.",
+    "instructions": [
+      "Stand with feet shoulder-width apart, toes angled slightly outward, arms at sides or front for balance.",
+      "Brace your core and lower into a controlled squat, bending hips and knees until thighs are almost parallel to the floor.",
+      "From the bottom of the squat, swing arms back and then forcefully drive through your whole foot to jump straight up as explosively as possible.",
+      "Land softly on the balls of your feet and then immediately shift weight back to your heels while absorbing impact with bent knees.",
+      "Reset your posture and repeat. Aim for full height each rep rather than rushing.",
+      "Keep your knees tracking over your toes and your chest lifted throughout the motion.",
+      "Use this move sparingly—1-2 times/week—to minimize joint impact and allow recovery for the joints and connective tissue:contentReference[oaicite:1]{index=1}."
+    ]
     }
   },
   {
     "e_name": "tuck jumps",
     "e_level": 4,
-    "e_body_split": 3,
-    "e_youtube_id": "https://www.youtube.com/watch?v=XwOHycBa3uY",
+    "e_body_split": 2,
+    "e_youtube_id": "XwOHycBa3uY",  
     "e_description": {
-      "about": "Tuck Jumps is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "Tuck jumps are a high-intensity plyometric exercise that builds explosive lower-body power, strength, coordination, and cardiovascular endurance. They target the quadriceps, hamstrings, glutes, hip flexors, calves, and core while challenging landing control and full-body stability.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Stand with your feet hip-width apart, knees slightly bent, core braced, and arms relaxed by your sides.",
+        "Drop quickly into a quarter-squat by hinging at the hips and bending your knees slightly, preparing to jump.",
+        "Explode upward, driving through the balls of your feet and swinging your arms for momentum.",
+        "At the peak of the jump, tuck your knees toward your chest and attempt to bring them as close as possible.",
+        "Land softly on the balls of your feet, immediately absorbing shock through bent knees and hips.",
+        "Reset by returning to the quarter-squat and immediately repeat for the desired reps, maintaining rhythm and control."
       ]
     }
   },
@@ -1081,14 +1100,16 @@
     "e_name": "up down scissors",
     "e_level": 1,
     "e_body_split": 4,
-    "e_youtube_id": "https://www.youtube.com/watch?v=P2FRHzgYbuo",
+    "e_youtube_id": "P2FRHzgYbuo",
     "e_description": {
-      "about": "Up Down Scissors is a functional exercise designed to build strength, coordination, and muscular endurance.",
+      "about": "A dynamic Pilates-style core exercise targeting the lower abdominals, hip flexors and transverse abdominis. It strengthens core stability while engaging the legs in controlled vertical scissoring motions.",
       "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
+        "Lie face up on a mat with arms beside your body or hands lightly supporting your glutes to protect the lower back.",
+        "Lift both legs a few inches off the ground, keeping them straight or with a slight bend in the knees for comfort.",
+        "Begin the scissor motion by slowly lowering one leg toward the floor while raising the other leg upward.",
+        "Switch legs in a controlled manner without letting either foot touch the floor.",
+        "Continue alternating legs at a slow, rhythmic pace. Maintain core tension and keep your lower back pressed into the mat.",
+        "Start with 10-15 switches per side or perform for 30 seconds, rest briefly, and repeat for 2-3 sets."
       ]
     }
   },
@@ -1106,366 +1127,6 @@
         "Pause briefly, then lift back to center and repeat on the opposite side.",
         "Continue rotating legs side-to-side in a smooth, controlled motion, breathing steadily.",
         "Keep lower back pressed lightly on the floor and move only through core control, not swinging the hips."
-      ]
-    }
-  },
-  {
-    "e_name": "small arm circles",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Small Arm Circles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "reverse small arm circles",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Reverse Small Arm Circles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "large arm circles",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Large Arm Circles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "reverse large arm circles",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Reverse Large Arm Circles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "lateral arm raises",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Lateral Arm Raises is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "front arm raises",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Front Arm Raises is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "lateral rotator cuffs",
-    "e_level": 1,
-    "e_body_split": 1,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Lateral Rotator Cuffs is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "front rotator cuffs",
-    "e_level": 1,
-    "e_body_split": 1,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Front Rotator Cuffs is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "low arm criss crosses",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Low Arm Criss Crosses is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "arm criss crosses",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Arm Criss Crosses is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "high arm criss crosses",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "High Arm Criss Crosses is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "running arm swings",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Running Arm Swings is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "neck up-downs",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Neck Up-Downs is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "neck side-to-sides",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Neck Side-To-Sides is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "neck leans",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Neck Leans is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "neck rotations",
-    "e_level": 1,
-    "e_body_split": 2,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Neck Rotations is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "heel-to-glutes",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Heel-To-Glutes is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "knee hugs",
-    "e_level": 2,
-    "e_body_split": 1,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Knee Hugs is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "ankle hugs",
-    "e_level": 2,
-    "e_body_split": 1,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Ankle Hugs is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "toe touches",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Toe Touches is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "lateral leg swings",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Lateral Leg Swings is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "front leg swings",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Front Leg Swings is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "high hurdles",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "High Hurdles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
-      ]
-    }
-  },
-  {
-    "e_name": "reverse high hurdles",
-    "e_level": 2,
-    "e_body_split": 3,
-    "e_youtube_id": "",
-    "e_description": {
-      "about": "Reverse High Hurdles is a functional exercise designed to build strength, coordination, and muscular endurance.",
-      "instructions": [
-        "Start in the appropriate position.",
-        "Maintain good form throughout the movement.",
-        "Perform the movement through its full range of motion.",
-        "Control your breathing and focus on each rep."
       ]
     }
   }

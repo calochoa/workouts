@@ -20,7 +20,7 @@
           {{ qe.reps }}
 
 
-          {% if qe.exercise.e_youtube_id %}
+          {% if quickie.q_type.id != 7 %}
             <a class="exercise-link" href="{% url 'exercise_detail' qe.exercise.id %}">
               {{ qe.exercise.e_name }}
             </a>
