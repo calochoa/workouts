@@ -20,3 +20,6 @@ workouts/staticfiles/
 
 # OS
 .DS_Store
+
+# Miscellaneous
+*.bak

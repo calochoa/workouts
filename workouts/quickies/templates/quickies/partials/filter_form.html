@@ -1,5 +1,16 @@
 <div class="form-container">
   <form method="get">
+    {% if show_type %}
+      <div class="form-row">
+        <label for="type">Type:</label>
+        <select name="type" id="type">
+          <option value="">All</option>
+          {% for t in types %}
+            <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>{{ t.qt_name }}</option>
+          {% endfor %}
+        </select>
+      </div>
+    {% endif %}
     <div class="form-row">
       <label for="level">Level:</label>
       <select name="level" id="level">
@@ -18,17 +29,6 @@
         {% endfor %}
       </select>
     </div>
-    {% if show_type %}
-      <div class="form-row">
-        <label for="type">Type:</label>
-        <select name="type" id="type">
-          <option value="">All</option>
-          {% for t in types %}
-            <option value="{{ t.qt_name }}" {% if t.qt_name == selected_type %}selected{% endif %}>{{ t.qt_name }}</option>
-          {% endfor %}
-        </select>
-      </div>
-    {% endif %}
     <div class="form-actions">
       <button type="submit">{{ submit_label }}</button>
       <a href="{% url clear_url %}">Clear filters</a>

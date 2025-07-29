@@ -26,7 +26,7 @@ def __get_quickies_context(request):
     selected_body_split = request.GET.get("body_split")
     selected_type = request.GET.get("type")
 
-    quickies = Quickie.objects.all()
+    quickies = Quickie.objects.all().order_by('q_type__id', 'q_level__l_value', 'q_name')
 
     if selected_level:
         quickies = quickies.filter(q_level__l_name=selected_level)
