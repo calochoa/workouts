@@ -2,6 +2,7 @@ import datetime
 import random
 from django.shortcuts import render
 from django.http import Http404
+from django.db.models.functions import Lower
 from .models import Quickie, Level, BodySplit, QuickieType, Exercise
 
 def home(request):
@@ -51,7 +52,7 @@ def exercises(request):
     selected_level = request.GET.get("level")
     selected_body_split = request.GET.get("body_split")
 
-    exercises = Exercise.objects.all()
+    exercises = Exercise.objects.all().order_by(Lower('e_name'))
 
     if selected_level:
         exercises = exercises.filter(e_level__l_name=selected_level)

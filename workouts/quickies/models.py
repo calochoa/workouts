@@ -29,9 +29,6 @@ class Exercise(models.Model):
     e_youtube_id = models.CharField(max_length=64, blank=True, null=True)
     e_description = models.JSONField(blank=True, null=True)
 
-    class Meta:
-        ordering = ['e_name']
-
     def youtube_url(self):
         return(f"https://www.youtube.com/watch?v={self.e_youtube_id}")
 

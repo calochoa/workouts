@@ -220,7 +220,7 @@
   {
     "e_name": "clapping push-ups",
     "e_level": 5,
-    "e_body_split": 1,
+    "e_body_split": 2,
     "e_youtube_id": "mj25D73_TmA",
     "e_description": {
       "about": "Clapping push-ups are an advanced plyometric variation of the standard push-up, designed to enhance explosive upper-body power. By pushing off the ground with sufficient force to clap your hands mid-air, this exercise targets the chest, shoulders, and triceps, while also engaging the core for stability.",
@@ -254,7 +254,7 @@
   {
     "e_name": "criss cross scissors",
     "e_level": 1,
-    "e_body_split": 1,
+    "e_body_split": 4,
     "e_youtube_id": "34dA6YPwjEQ",
     "e_description": {
       "about": "Criss-cross scissors are a beginner-friendly core exercise that targets the lower abs and hip flexors. This movement involves alternating leg kicks in a scissor-like fashion while maintaining a stable upper body, promoting core engagement and improving lower body coordination.",
@@ -335,7 +335,7 @@
   {
     "e_name": "forward backward hops",
     "e_level": 1,
-    "e_body_split": 1,
+    "e_body_split": 3,
     "e_youtube_id": "GPlp3d2F4H8",
     "e_description": {
       "about": "Forward-backward hops are a low-impact plyometric movement ideal for building leg power, coordination, and balance. This exercise engages the quads, calves, and glutes while helping improve footwork and agility.",
@@ -639,7 +639,7 @@
         "Keep your core tight and maintain a neutral spine throughout.",
         "Slowly bend your elbows to lower your chest toward the bench until it's just above it.",
         "Pause briefly at the bottom, then press through your palms to straighten your arms and return to starting position.",
-        "Repeat for the desired number of repetitions, focusing on controlled tempo (e.g. 3-second descent, 1-second press) :contentReference[oaicite:1]{index=1}"
+        "Repeat for the desired number of repetitions, focusing on controlled tempo (e.g. 3-second descent, 1-second press)"
       ]
     }
   },
@@ -1048,7 +1048,7 @@
   {
     "e_name": "spiderman push-ups",
     "e_level": 4,
-    "e_body_split": 2,
+    "e_body_split": 1,
     "e_youtube_id": "f29xFGVjKA8",
     "e_description": {
       "about": "Spiderman push-ups are an advanced variation of the standard push-up that combine upper body strength with core stability and hip mobility. This exercise involves bringing one knee toward the elbow during the descent, mimicking the movement of climbing a wall, thereby engaging the chest, shoulders, triceps, core, and hip flexors.",
@@ -1067,7 +1067,7 @@
     "e_body_split": 3,
     "e_youtube_id": "i3gcPC0Tm0c",
     "e_description": {
-      "about": "Squat jumps are a high-intensity, plyometric lower-body exercise that develops explosive power and strength in the legs, glutes, and core. As a progression of the bodyweight squat, the jump phase forces rapid muscle activation and helps improve vertical lift, coordination, and cardiovascular endurance:contentReference[oaicite:0]{index=0}.",
+      "about": "Squat jumps are a high-intensity, plyometric lower-body exercise that develops explosive power and strength in the legs, glutes, and core. As a progression of the bodyweight squat, the jump phase forces rapid muscle activation and helps improve vertical lift, coordination, and cardiovascular endurance.",
     "instructions": [
       "Stand with feet shoulder-width apart, toes angled slightly outward, arms at sides or front for balance.",
       "Brace your core and lower into a controlled squat, bending hips and knees until thighs are almost parallel to the floor.",
@@ -1075,14 +1075,14 @@
       "Land softly on the balls of your feet and then immediately shift weight back to your heels while absorbing impact with bent knees.",
       "Reset your posture and repeat. Aim for full height each rep rather than rushing.",
       "Keep your knees tracking over your toes and your chest lifted throughout the motion.",
-      "Use this move sparingly—1-2 times/week—to minimize joint impact and allow recovery for the joints and connective tissue:contentReference[oaicite:1]{index=1}."
+      "Use this move sparingly—1-2 times/week—to minimize joint impact and allow recovery for the joints and connective tissue."
     ]
     }
   },
   {
     "e_name": "tuck jumps",
     "e_level": 4,
-    "e_body_split": 2,
+    "e_body_split": 3,
     "e_youtube_id": "XwOHycBa3uY",  
     "e_description": {
       "about": "Tuck jumps are a high-intensity plyometric exercise that builds explosive lower-body power, strength, coordination, and cardiovascular endurance. They target the quadriceps, hamstrings, glutes, hip flexors, calves, and core while challenging landing control and full-body stability.",
@@ -1229,7 +1229,7 @@
   {
     "e_name": "lateral rotator cuffs",
     "e_level": 1,
-    "e_body_split": 1,
+    "e_body_split": 2,
     "e_youtube_id": "",
     "e_description": {
       "about": "The lateral rotator cuff stretch is designed to gently improve external rotation and shoulder joint mobility, particularly targeting the infraspinatus and teres minor muscles. This stretch helps maintain healthy shoulder function and can support injury prevention during overhead or throwing activities.",
@@ -1246,7 +1246,7 @@
   {
     "e_name": "front rotator cuffs",
     "e_level": 1,
-    "e_body_split": 1,
+    "e_body_split": 2,
     "e_youtube_id": "",
     "e_description": {
       "about": "The front rotator cuff stretch is a mobility exercise that targets the subscapularis and other rotator cuff muscles responsible for internal and external shoulder rotation. By practicing this stretch with the arm positioned in front of the body, it emphasizes anterior mobility and can aid in reducing shoulder tightness.",
@@ -1414,7 +1414,7 @@
   {
     "e_name": "knee hugs",
     "e_level": 2,
-    "e_body_split": 1,
+    "e_body_split": 3,
     "e_youtube_id": "",
     "e_description": {
       "about": "Knee hugs stretch the glutes, lower back, and hips. This movement helps improve hip mobility and balance, making it ideal for warming up before running or lower-body workouts.",
@@ -1431,7 +1431,7 @@
   {
     "e_name": "ankle hugs",
     "e_level": 2,
-    "e_body_split": 1,
+    "e_body_split": 3,
     "e_youtube_id": "",
     "e_description": {
       "about": "Ankle hugs are a compound stretch that targets the hamstrings, calves, and glutes. The movement involves bending at the waist and pulling the ankle toward the torso, encouraging flexibility and balance.",
